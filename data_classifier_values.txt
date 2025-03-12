@@ -1,57 +1,57 @@
  : desconocido
-ABOGADOS: consultoria y asesoria
-ABOGADOS ESPECIALISTAS EN DERECHO CIVIL: servicios publicos
-ABOGADOS ESPECIALISTAS EN DERECHO DE FAMILIA Y MATRIMONIAL: servicios publicos
+ABOGADOS: telecomunicaciones
+ABOGADOS ESPECIALISTAS EN DERECHO CIVIL: consultoria y asesoria
+ABOGADOS ESPECIALISTAS EN DERECHO DE FAMILIA Y MATRIMONIAL: consultoria y asesoria
 ABOGADOS ESPECIALISTAS EN DERECHO LABORAL: consultoria y asesoria
 ABOGADOS ESPECIALISTAS EN DERECHO MERCANTIL: consultoria y asesoria
 ABOGADOS ESPECIALISTAS EN DERECHO PENAL: consultoria y asesoria
-ABONOS Y FERTILIZANTES: alimentacion
-ACADEMIAS DE BAILE: educacion y formacion
-ACADEMIAS DE DIBUJO Y PINTURA: educacion y formacion
-ACADEMIAS DE DISEÑO DE MODA: educacion y formacion
-ACADEMIAS DE DISEÑO GRAFICO: educacion y formacion
-ACADEMIAS DE ENSEÑANZA SANITARIA: educacion y formacion
-ACADEMIAS DE ENSEÑANZA: OPOSICIONES: educacion y formacion
-ACADEMIAS DE ENSEÑANZAS DIVERSAS: educacion y formacion
-ACADEMIAS DE ESTUDIOS EMPRESARIALES: educacion y formacion
-ACADEMIAS DE IDIOMAS: educacion y formacion
-ACADEMIAS DE MUSICA Y CANTO: educacion y formacion
-ACADEMIAS DE PRIMARIA ESO Y BACHILLERATO: educacion y formacion
-ACCESORIOS NAUTICOS: DISTRIBUCION: suministros y materiales
+ABONOS Y FERTILIZANTES: belleza
+ACADEMIAS DE BAILE: belleza
+ACADEMIAS DE DIBUJO Y PINTURA: belleza
+ACADEMIAS DE DISEÑO DE MODA: textil y moda
+ACADEMIAS DE DISEÑO GRAFICO: textil y moda
+ACADEMIAS DE ENSEÑANZA SANITARIA: servicios profesionales
+ACADEMIAS DE ENSEÑANZA: OPOSICIONES: servicios profesionales
+ACADEMIAS DE ENSEÑANZAS DIVERSAS: servicios profesionales
+ACADEMIAS DE ESTUDIOS EMPRESARIALES: informatica y tecnologia
+ACADEMIAS DE IDIOMAS: belleza
+ACADEMIAS DE MUSICA Y CANTO: belleza
+ACADEMIAS DE PRIMARIA ESO Y BACHILLERATO: belleza
+ACCESORIOS NAUTICOS: DISTRIBUCION: textil y moda
 ACEITES ALIMENTICIOS: ALMACENES: suministros y materiales
-ACEITES DE OLIVA: suministros y materiales
+ACEITES DE OLIVA: belleza
 ACEITES DE OLIVA: FABRICACION: industria y manufactura
-ACEITUNAS: MAYORISTAS: comercio y ventas
+ACEITUNAS: MAYORISTAS: servicios profesionales
 ACERO: ALMACENES: suministros y materiales
-ACEROS ESPECIALES: alimentacion
-ACTIVIDADES EXTRAESCOLARES: CENTROS Y SERVICIOS: servicios publicos
-ACTIVIDADES PROFESIONALES, CIENTIFICAS Y TECNICAS DIVERSAS: recursos humanos
-ACTIVIDADES RECREATIVAS: EXPLOTACION Y SERVICIOS: recursos humanos
+ACEROS ESPECIALES: servicios profesionales
+ACTIVIDADES EXTRAESCOLARES: CENTROS Y SERVICIOS: servicios profesionales
+ACTIVIDADES PROFESIONALES, CIENTIFICAS Y TECNICAS DIVERSAS: servicios profesionales
+ACTIVIDADES RECREATIVAS: EXPLOTACION Y SERVICIOS: servicios profesionales
 ACUICULTURA: agricultura
-ACUPUNTORES: recursos humanos
+ACUPUNTORES: salud y medicina
 ADMINISTRACION DE APUESTAS MUTUAS: servicios publicos
-ADMINISTRADORES DE FINCAS: agricultura
-ADORNOS DE NAVIDAD: MAYORISTAS: comercio y ventas
-AGENCIAS DE ADUANAS: suministros y materiales
-AGENCIAS DE BUSQUEDA DE EMPLEO: recursos humanos
-AGENCIAS DE MODELOS: suministros y materiales
-AGENCIAS DE VIAJES: hosteleria y turismo
-AGENCIAS INMOBILIARIAS: servicios publicos
-AGENCIAS MATRIMONIALES Y DE AMISTAD: servicios publicos
+ADMINISTRADORES DE FINCAS: servicios profesionales
+ADORNOS DE NAVIDAD: MAYORISTAS: belleza
+AGENCIAS DE ADUANAS: consultoria y asesoria
+AGENCIAS DE BUSQUEDA DE EMPLEO: consultoria y asesoria
+AGENCIAS DE MODELOS: consultoria y asesoria
+AGENCIAS DE VIAJES: consultoria y asesoria
+AGENCIAS INMOBILIARIAS: consultoria y asesoria
+AGENCIAS MATRIMONIALES Y DE AMISTAD: consultoria y asesoria
 AGENTES COMERCIALES: comercio y ventas
-AGENTES DE LA PROPIEDAD INMOBILIARIA: servicios publicos
-AGENTES Y COMISIONISTAS DE ADUANAS: servicios publicos
+AGENTES DE LA PROPIEDAD INMOBILIARIA: construccion e inmobiliaria
+AGENTES Y COMISIONISTAS DE ADUANAS: belleza
 AGRICULTURA Y GANADERIA: SUMINISTROS: agricultura
 AGRICULTURA, ANIMALES Y MATERIAS PRIMAS TEXTILES: COMERCIALIZACION: agricultura
 AGRICULTURA: INSTALACIONES: agricultura
 AGROTURISMOS: ALOJAMIENTO RURAL: hosteleria y turismo
-AGUA: ABASTECIMIENTOS: mineria y extraccion
-AGUA: TRATAMIENTOS: mineria y extraccion
-AIRE ACONDICIONADO: EQUIPOS E INSTALACIONES: informatica y tecnologia
-AIRE ACONDICIONADO: REPARACION: servicios profesionales
-AISLAMIENTOS TERMICOS Y ACUSTICOS: INSTALACION: suministros y materiales
+AGUA: ABASTECIMIENTOS: salud y medicina
+AGUA: TRATAMIENTOS: salud y medicina
+AIRE ACONDICIONADO: EQUIPOS E INSTALACIONES: salud y medicina
+AIRE ACONDICIONADO: REPARACION: automocion
+AISLAMIENTOS TERMICOS Y ACUSTICOS: INSTALACION: salud y medicina
 AISLANTES TERMICOS Y ACUSTICOS: MATERIALES: suministros y materiales
-ALARMAS: VENTA E INSTALACION: informatica y tecnologia
+ALARMAS: VENTA E INSTALACION: salud y medicina
 ALBAÑILERIA: construccion e inmobiliaria
 ALBERGUES: hosteleria y turismo
 ALGODON: INDUSTRIA: industria y manufactura
@@ -61,134 +61,134 @@ ALIMENTACION PRODUCTOS: MAYORISTAS: alimentacion
 ALIMENTACION, BEBIDAS Y TABACO: COMERCIALIZACION: alimentacion
 ALIMENTACION: DISTRIBUCION: alimentacion
 ALIMENTACION: ESTABLECIMIENTOS: alimentacion
-ALIMENTOS CONGELADOS: ESTABLECIMIENTOS: alimentacion
-ALIMENTOS CONGELADOS: FABRICANTES Y MAYORISTAS: comercio y ventas
-ALIMENTOS DIETETICOS: DISTRIBUCION: suministros y materiales
-ALIMENTOS DIETETICOS: FABRICANTES Y MAYORISTAS: comercio y ventas
-ALIMENTOS ECOLOGICOS: DISTRIBUCION: suministros y materiales
-ALIMENTOS ECOLOGICOS: ESTABLECIMIENTOS: suministros y materiales
-ALMACENAJE, LOGISTICA Y DISTRIBUCION: suministros y materiales
+ALIMENTOS CONGELADOS: ESTABLECIMIENTOS: informatica y tecnologia
+ALIMENTOS CONGELADOS: FABRICANTES Y MAYORISTAS: salud y medicina
+ALIMENTOS DIETETICOS: DISTRIBUCION: salud y medicina
+ALIMENTOS DIETETICOS: FABRICANTES Y MAYORISTAS: salud y medicina
+ALIMENTOS ECOLOGICOS: DISTRIBUCION: salud y medicina
+ALIMENTOS ECOLOGICOS: ESTABLECIMIENTOS: salud y medicina
+ALMACENAJE, LOGISTICA Y DISTRIBUCION: logistica y transporte
 ALOJAMIENTO EN APARTAMENTOS CORTA Y LARGA ESTANCIA: hosteleria y turismo
-ALQUILER CON OPCION A COMPRA: alimentacion
-ALTA COSTURA: servicios profesionales
-AMBIENTADORES: alimentacion
-AMBULANCIAS: servicios publicos
-ANALISIS CLINICOS: quimica y farmaceutica
-ANDAMIAJES: suministros y materiales
-ANDAMIOS: DISTRIBUCION: suministros y materiales
-ANIMADORES: otros
-ANIMALES DE COMPAÑIA ALIMENTOS: MAYORISTAS: comercio y ventas
-ANIMALES DE COMPAÑIA Y ACCESORIOS: ESTABLECIMIENTOS: suministros y materiales
-ANIMALES DE COMPAÑIA: CRIA Y RESIDENCIAS: alimentacion
-ANIMALES DE COMPAÑIA: CUIDADOS FISICOS Y ESTETICOS: servicios profesionales
+ALQUILER CON OPCION A COMPRA: automocion
+ALTA COSTURA: alimentacion
+AMBIENTADORES: desconocido
+AMBULANCIAS: telecomunicaciones
+ANALISIS CLINICOS: servicios profesionales
+ANDAMIAJES: desconocido
+ANDAMIOS: DISTRIBUCION: informatica y tecnologia
+ANIMADORES: desconocido
+ANIMALES DE COMPAÑIA ALIMENTOS: MAYORISTAS: servicios profesionales
+ANIMALES DE COMPAÑIA Y ACCESORIOS: ESTABLECIMIENTOS: textil y moda
+ANIMALES DE COMPAÑIA: CRIA Y RESIDENCIAS: belleza
+ANIMALES DE COMPAÑIA: CUIDADOS FISICOS Y ESTETICOS: belleza
 ANIMALES DE COMPAÑIA: SERVICIOS DE TRANSPORTE Y PASEO: logistica y transporte
-ANTENAS: telecomunicaciones
-ANTIGUEDADES: construccion e inmobiliaria
-APARATOS E INSTRUMENTOS DE PRECISION: FABRICACION: suministros y materiales
-APARATOS E INSTRUMENTOS MEDICO-QUIRURGICOS: ESTABLECIMIENTOS: informatica y tecnologia
-APARCAMIENTOS: SERVICIOS: suministros y materiales
+ANTENAS: servicios profesionales
+ANTIGUEDADES: desconocido
+APARATOS E INSTRUMENTOS DE PRECISION: FABRICACION: industria y manufactura
+APARATOS E INSTRUMENTOS MEDICO-QUIRURGICOS: ESTABLECIMIENTOS: salud y medicina
+APARCAMIENTOS: SERVICIOS: salud y medicina
 APARTAMENTOS RURALES: ALOJAMIENTO RURAL: hosteleria y turismo
-APARTAMENTOS TURISTICOS Y CASAS DE VACACIONES: ALQUILER: hosteleria y turismo
+APARTAMENTOS TURISTICOS Y CASAS DE VACACIONES: ALQUILER: salud y medicina
 APICULTURA: MATERIALES Y PRODUCTOS: suministros y materiales
-ARBORICULTURA: agricultura
-ARIDOS: suministros y materiales
-ARMARIOS: alimentacion
-ARMARIOS Y COMPONENTES: ESTABLECIMIENTOS: suministros y materiales
-ARMARIOS Y CUADROS ELECTRICOS: FABRICACION: suministros y materiales
-ARMAS Y MUNICIONES: FABRICANTES Y MAYORISTAS: comercio y ventas
+ARBORICULTURA: desconocido
+ARIDOS: logistica y transporte
+ARMARIOS: telecomunicaciones
+ARMARIOS Y COMPONENTES: ESTABLECIMIENTOS: construccion e inmobiliaria
+ARMARIOS Y CUADROS ELECTRICOS: FABRICACION: construccion e inmobiliaria
+ARMAS Y MUNICIONES: FABRICANTES Y MAYORISTAS: salud y medicina
 ARMERIAS: desconocido
 ARQUITECTOS: construccion e inmobiliaria
-ARQUITECTOS TECNICOS Y APAREJADORES: recursos humanos
+ARQUITECTOS TECNICOS Y APAREJADORES: salud y medicina
 ARQUITECTURA PROYECTOS: SERVICIO TECNICO Y APOYO: construccion e inmobiliaria
 ARREGLOS DE ROPA: textil y moda
 ARTE: OBJETOS: arte y cultura
 ARTE: SERVICIOS: arte y cultura
-ARTES GRAFICAS: arte y cultura
-ARTES GRAFICAS: SUMINISTROS: informatica y tecnologia
-ARTES MARCIALES: arte y cultura
+ARTES GRAFICAS: belleza
+ARTES GRAFICAS: SUMINISTROS: suministros y materiales
+ARTES MARCIALES: servicios profesionales
 ARTESANIA: desconocido
-ARTESANIA ARTICULOS: ESTABLECIMIENTOS: suministros y materiales
-ARTICULOS DE AFEITAR: suministros y materiales
-ARTICULOS DOMESTICOS: MAYORISTAS: comercio y ventas
-ARTICULOS PARA BEBES: ESTABLECIMIENTOS: suministros y materiales
-ASCENSORES Y MONTACARGAS: INSTALACION Y REPARACION: servicios profesionales
-ASERRADEROS DE MADERA: agricultura
-ASESORIAS DE COMERCIO EXTERIOR: consultoria y asesoria
-ASESORIAS DE EDIFICACION: consultoria y asesoria
-ASESORIAS DE EMPRESAS: consultoria y asesoria
-ASESORIAS FINANCIERAS: consultoria y asesoria
-ASESORIAS FISCALES: consultoria y asesoria
-ASESORIAS JURIDICAS: consultoria y asesoria
-ASESORIAS LABORALES: consultoria y asesoria
-ASESORIAS MEDICAS: consultoria y asesoria
-ASFALTOS: automocion
-ASISTENCIA A DOMICILIO: SERVICIOS PRIVADOS: servicios publicos
-ASISTENCIA SOCIAL: SERVICIOS PROFESIONALES PRIVADOS: servicios publicos
-ASISTENTES DE COMPRAS (SHOPPERS): suministros y materiales
-ASTROLOGIA: quimica y farmaceutica
+ARTESANIA ARTICULOS: ESTABLECIMIENTOS: salud y medicina
+ARTICULOS DE AFEITAR: servicios profesionales
+ARTICULOS DOMESTICOS: MAYORISTAS: salud y medicina
+ARTICULOS PARA BEBES: ESTABLECIMIENTOS: salud y medicina
+ASCENSORES Y MONTACARGAS: INSTALACION Y REPARACION: automocion
+ASERRADEROS DE MADERA: belleza
+ASESORIAS DE COMERCIO EXTERIOR: comercio y ventas
+ASESORIAS DE EDIFICACION: servicios profesionales
+ASESORIAS DE EMPRESAS: servicios profesionales
+ASESORIAS FINANCIERAS: banca y finanzas
+ASESORIAS FISCALES: desconocido
+ASESORIAS JURIDICAS: telecomunicaciones
+ASESORIAS LABORALES: recursos humanos
+ASESORIAS MEDICAS: telecomunicaciones
+ASFALTOS: desconocido
+ASISTENCIA A DOMICILIO: SERVICIOS PRIVADOS: servicios profesionales
+ASISTENCIA SOCIAL: SERVICIOS PROFESIONALES PRIVADOS: servicios profesionales
+ASISTENTES DE COMPRAS (SHOPPERS): servicios profesionales
+ASTROLOGIA: desconocido
 ATRACCIONES DE FERIA: FABRICACION: entretenimiento y ocio
 ATS Y DIPLOMADOS EN ENFERMERIA: salud y medicina
-AUDIFONOS Y ACCESORIOS: servicios profesionales
-AUDIOVISUALES EQUIPOS Y ACCESORIOS: MAYORISTAS: comercio y ventas
-AUDIOVISUALES EQUIPOS: VENTA Y ALQUILER: suministros y materiales
-AUDITORIAS DE CUENTAS: consultoria y asesoria
-AUTOCARES: SERVICIOS Y ALQUILER: suministros y materiales
+AUDIFONOS Y ACCESORIOS: textil y moda
+AUDIOVISUALES EQUIPOS Y ACCESORIOS: MAYORISTAS: textil y moda
+AUDIOVISUALES EQUIPOS: VENTA Y ALQUILER: salud y medicina
+AUDITORIAS DE CUENTAS: informatica y tecnologia
+AUTOCARES: SERVICIOS Y ALQUILER: salud y medicina
 AUTOESCUELAS: desconocido
 AUTOMATIZACION INDUSTRIAL: EQUIPOS E INSTALACIONES: informatica y tecnologia
-AUTOMOVILES RECAMBIOS Y ACCESORIOS: ESTABLECIMIENTOS: automocion
-AUTOMOVILES RECAMBIOS Y ACCESORIOS: FABRICANTES Y MAYORISTAS: automocion
-AUTOMOVILES RECAMBIOS: FABRICACION: automocion
-AUTOMOVILES RECAMBIOS: MAYORISTAS: automocion
-AUTOMOVILES USADOS: EXPOSICIONES: automocion
-AUTOMOVILES: AGENCIAS: automocion
-AUTOMOVILES: ALQUILER: automocion
-AUTOMOVILES: ALQUILER CON CONDUCTOR: automocion
+AUTOMOVILES RECAMBIOS Y ACCESORIOS: ESTABLECIMIENTOS: textil y moda
+AUTOMOVILES RECAMBIOS Y ACCESORIOS: FABRICANTES Y MAYORISTAS: textil y moda
+AUTOMOVILES RECAMBIOS: FABRICACION: industria y manufactura
+AUTOMOVILES RECAMBIOS: MAYORISTAS: informatica y tecnologia
+AUTOMOVILES USADOS: EXPOSICIONES: arte y cultura
+AUTOMOVILES: AGENCIAS: consultoria y asesoria
+AUTOMOVILES: ALQUILER: salud y medicina
+AUTOMOVILES: ALQUILER CON CONDUCTOR: alimentacion
 AUTOMOVILES: CONCESIONARIOS: automocion
-AUTOMOVILES: DISTRIBUCION: automocion
-AUTOMOVILES: FABRICACION: automocion
-AUTOMOVILES: NUEVOS Y OCASION: automocion
+AUTOMOVILES: DISTRIBUCION: salud y medicina
+AUTOMOVILES: FABRICACION: industria y manufactura
+AUTOMOVILES: NUEVOS Y OCASION: salud y medicina
 AUTOSERVICIOS DE ALIMENTACION: MAYORISTAS: alimentacion
-AYUDAS TECNICAS: ESTABLECIMIENTOS: recursos humanos
-AZAFATAS DE FERIAS Y CONGRESOS: AGENCIAS: suministros y materiales
-AZULEJOS Y BALDOSAS: ESTABLECIMIENTOS: servicios profesionales
-AZULEJOS Y SUELOS CERAMICOS: MAYORISTAS: comercio y ventas
+AYUDAS TECNICAS: ESTABLECIMIENTOS: salud y medicina
+AZAFATAS DE FERIAS Y CONGRESOS: AGENCIAS: servicios profesionales
+AZULEJOS Y BALDOSAS: ESTABLECIMIENTOS: salud y medicina
+AZULEJOS Y SUELOS CERAMICOS: MAYORISTAS: salud y medicina
 Abogado: consultoria y asesoria
 Abogado de derecho familiar: consultoria y asesoria
 Abogado de empresas: consultoria y asesoria
-Abogado de inmigración: servicios publicos
+Abogado de inmigración: consultoria y asesoria
 Abogado de justicia penal: consultoria y asesoria
-Abogado de lesiones personales: recursos humanos
-Abogado de práctica general: servicios publicos
-Abogado de relaciones laborales: servicios publicos
+Abogado de lesiones personales: servicios profesionales
+Abogado de práctica general: consultoria y asesoria
+Abogado de relaciones laborales: consultoria y asesoria
 Abogado laboral: consultoria y asesoria
 Abogado litigante: consultoria y asesoria
 Agencia de Empleo: recursos humanos
-Agencia de alquiler de apartamentos: suministros y materiales
-Agencia de alquiler de casas de vacaciones: suministros y materiales
-Agencia de alquiler de casas móviles: suministros y materiales
+Agencia de alquiler de apartamentos: servicios profesionales
+Agencia de alquiler de casas de vacaciones: servicios profesionales
+Agencia de alquiler de casas móviles: servicios profesionales
 Agencia de alquiler de coches: automocion
-Agencia de alquiler de equipos: suministros y materiales
-Agencia de alquiler de furgonetas: suministros y materiales
-Agencia de alquiler de inmuebles: suministros y materiales
-Agencia de alquiler de motos: suministros y materiales
-Agencia de alquiler de vehículos recreativos: automocion
-Agencia de cuidado infantil: servicios profesionales
+Agencia de alquiler de equipos: servicios profesionales
+Agencia de alquiler de furgonetas: belleza
+Agencia de alquiler de inmuebles: servicios profesionales
+Agencia de alquiler de motos: belleza
+Agencia de alquiler de vehículos recreativos: servicios profesionales
+Agencia de cuidado infantil: belleza
 Agencia de diseño: textil y moda
 Agencia de enfermería: salud y medicina
-Agencia de excursiones en barco: hosteleria y turismo
-Agencia de excursiones en canoa y kayak: hosteleria y turismo
+Agencia de excursiones en barco: servicios profesionales
+Agencia de excursiones en canoa y kayak: belleza
 Agencia de seguros: banca y finanzas
 Agencia de seguros de hogar: banca y finanzas
 Agencia de trabajo temporal: recursos humanos
-Agencia de viajes: hosteleria y turismo
-Agencia de visitas turísticas: hosteleria y turismo
-Agencia inmobiliaria: consultoria y asesoria
-Agente de mudanzas: suministros y materiales
-Agente de yates: suministros y materiales
-Agentes inmobiliarios: servicios publicos
-Albañil: servicios profesionales
+Agencia de viajes: servicios profesionales
+Agencia de visitas turísticas: servicios profesionales
+Agencia inmobiliaria: construccion e inmobiliaria
+Agente de mudanzas: servicios profesionales
+Agente de yates: servicios profesionales
+Agentes inmobiliarios: telecomunicaciones
+Albañil: desconocido
 Alergólogo: salud y medicina
-Almacenaje, Logistica Y Distribucion: suministros y materiales
+Almacenaje, Logistica Y Distribucion: logistica y transporte
 Almacén: suministros y materiales
 Almacén general: suministros y materiales
 Alojamiento: hosteleria y turismo
@@ -197,67 +197,67 @@ Alojamiento con servicios: hosteleria y turismo
 Alojamiento interior: hosteleria y turismo
 Alojamiento para grupos: hosteleria y turismo
 Alojamiento rural: hosteleria y turismo
-Alquiler de apartamento vacacional: hosteleria y turismo
-Alquiler de autobuses: hosteleria y turismo
-Animador: arte y cultura
-Aparejador: servicios publicos
-Apartamento con servicios: servicios profesionales
-Apartamento de vacaciones: hosteleria y turismo
+Alquiler de apartamento vacacional: agricultura
+Alquiler de autobuses: belleza
+Animador: desconocido
+Aparejador: construccion e inmobiliaria
+Apartamento con servicios: alimentacion
+Apartamento de vacaciones: servicios profesionales
 Arquitecto: construccion e inmobiliaria
 Artesanía: desconocido
-Artista: arte y cultura
-Asador: arte y cultura
-Aserradero: servicios profesionales
-Asesor de imagen: consultoria y asesoria
-Asesor fiscal: consultoria y asesoria
-Asistente: recursos humanos
-Asociación de constructores capataces: servicios publicos
-Astillero: logistica y transporte
-Atención al cliente de electrodomésticos: servicios publicos
+Artista: comercio y ventas
+Asador: desconocido
+Aserradero: desconocido
+Asesor de imagen: servicios profesionales
+Asesor fiscal: banca y finanzas
+Asistente: banca y finanzas
+Asociación de constructores capataces: informatica y tecnologia
+Astillero: construccion e inmobiliaria
+Atención al cliente de electrodomésticos: servicios profesionales
 Audiólogo: salud y medicina
 Autoescuela: desconocido
 BANCOS DE INVERSION: banca y finanzas
 BANDAS Y CINTAS TRANSPORTADORAS: alimentacion
-BARBACOAS: DISTRIBUCION: desconocido
-BARCOS DE RECREO: ALQUILER: hosteleria y turismo
-BARCOS DEPORTIVOS: ALQUILER: logistica y transporte
-BASES DE DATOS: PROVEEDORES: suministros y materiales
-BATERIAS DE VEHICULOS: MAYORISTAS: automocion
-BAZARES: hosteleria y turismo
-BAÑADORES Y ARTICULOS DE PLAYA: ESTABLECIMIENTOS: servicios profesionales
+BARBACOAS: DISTRIBUCION: salud y medicina
+BARCOS DE RECREO: ALQUILER: belleza
+BARCOS DEPORTIVOS: ALQUILER: belleza
+BASES DE DATOS: PROVEEDORES: informatica y tecnologia
+BATERIAS DE VEHICULOS: MAYORISTAS: informatica y tecnologia
+BAZARES: comercio y ventas
+BAÑADORES Y ARTICULOS DE PLAYA: ESTABLECIMIENTOS: salud y medicina
 BAÑADORES Y ROPA DE PLAYA: textil y moda
-BAÑERAS Y OTROS SANITARIOS: REPARACION: servicios profesionales
+BAÑERAS Y OTROS SANITARIOS: REPARACION: automocion
 BEBIDAS CARBONICAS: FABRICACION: industria y manufactura
 BEBIDAS: ALMACENES: suministros y materiales
-BEBIDAS: MAYORISTAS: comercio y ventas
-BICICLETAS: MAYORISTAS: comercio y ventas
-BICICLETAS: REPARACION Y ACCESORIOS: servicios profesionales
-BICICLETAS: VENTA Y ALQUILER: suministros y materiales
-BICICLETAS: VENTA Y REPARACION: servicios profesionales
-BIENESTAR Y BELLEZA: CENTROS: recursos humanos
-BINGOS: alimentacion
-BISUTERIA: ESTABLECIMIENTOS: textil y moda
-BISUTERIA: MAYORISTAS: comercio y ventas
-BODAS: ORGANIZACION: desconocido
+BEBIDAS: MAYORISTAS: salud y medicina
+BICICLETAS: MAYORISTAS: salud y medicina
+BICICLETAS: REPARACION Y ACCESORIOS: automocion
+BICICLETAS: VENTA Y ALQUILER: automocion
+BICICLETAS: VENTA Y REPARACION: automocion
+BIENESTAR Y BELLEZA: CENTROS: belleza
+BINGOS: desconocido
+BISUTERIA: ESTABLECIMIENTOS: salud y medicina
+BISUTERIA: MAYORISTAS: salud y medicina
+BODAS: ORGANIZACION: salud y medicina
 BODEGAS DE VINOS CAVA: hosteleria y turismo
 BODEGAS: PRODUCCION DE VINOS Y LICORES: industria y manufactura
-BOLERAS: hosteleria y turismo
-BOLSAS DE PAPEL: FABRICANTES Y MAYORISTAS: comercio y ventas
-BOLSOS: ESTABLECIMIENTOS: textil y moda
-BOLSOS: FABRICANTES Y MAYORISTAS: comercio y ventas
-BOMBAS PARA LIQUIDOS: DISTRIBUCION: suministros y materiales
-BOMBAS: VENTA Y ALQUILER: suministros y materiales
-BOMBEROS PRIVADOS: servicios publicos
-BOMBEROS: ESCUELAS: desconocido
-BORDADOS: textil y moda
-BOSQUES: EXPLOTACION: mineria y extraccion
+BOLERAS: desconocido
+BOLSAS DE PAPEL: FABRICANTES Y MAYORISTAS: salud y medicina
+BOLSOS: ESTABLECIMIENTOS: salud y medicina
+BOLSOS: FABRICANTES Y MAYORISTAS: salud y medicina
+BOMBAS PARA LIQUIDOS: DISTRIBUCION: construccion e inmobiliaria
+BOMBAS: VENTA Y ALQUILER: construccion e inmobiliaria
+BOMBEROS PRIVADOS: servicios profesionales
+BOMBEROS: ESCUELAS: servicios profesionales
+BORDADOS: otros
+BOSQUES: EXPLOTACION: salud y medicina
 BOUTIQUES DE ROPA DE SEGUNDA MANO: textil y moda
 BOUTIQUES DE ROPA JUVENIL: textil y moda
-BOUTIQUES DE SEÑORA: hosteleria y turismo
-BOUTIQUES DE SEÑORA Y CABALLERO: servicios profesionales
-BOUTIQUES INFANTILES: textil y moda
-BRICOLAJE: ESTABLECIMIENTOS: suministros y materiales
-BUQUES: ARMADORES: suministros y materiales
+BOUTIQUES DE SEÑORA: servicios profesionales
+BOUTIQUES DE SEÑORA Y CABALLERO: automocion
+BOUTIQUES INFANTILES: servicios profesionales
+BRICOLAJE: ESTABLECIMIENTOS: textil y moda
+BUQUES: ARMADORES: salud y medicina
 Bar: entretenimiento y ocio
 Bar de chicas: entretenimiento y ocio
 Bar de karaoke: entretenimiento y ocio
@@ -266,129 +266,129 @@ Bar deportivo: entretenimiento y ocio
 Bar gay: entretenimiento y ocio
 Bar musical: entretenimiento y ocio
 Bar y parrilla: entretenimiento y ocio
-Bares de cachimbas: entretenimiento y ocio
-Bazar: textil y moda
-Bodega: hosteleria y turismo
-Brasería: alimentacion
+Bares de cachimbas: servicios profesionales
+Bazar: alimentacion
+Bodega: automocion
+Brasería: desconocido
 Bufete de abogados: consultoria y asesoria
-CACAO Y CHOCOLATE: DEGUSTACION Y ESTABLECIMIENTOS: alimentacion
-CAFE: TOSTADEROS: desconocido
+CACAO Y CHOCOLATE: DEGUSTACION Y ESTABLECIMIENTOS: salud y medicina
+CAFE: TOSTADEROS: hosteleria y turismo
 CAFES CONCIERTO: entretenimiento y ocio
-CAJAS RURALES: alimentacion
+CAJAS RURALES: servicios profesionales
 CALDERERIAS: desconocido
 CALEFACCION: INSTALACION Y MANTENIMIENTO: servicios profesionales
-CALEFACCION: MATERIALES: desconocido
+CALEFACCION: MATERIALES: suministros y materiales
 CALZADO DE SEÑORA Y CABALLERO: ESTABLECIMIENTOS: textil y moda
 CALZADO: FABRICACION: textil y moda
-CALZADOS A MEDIDA: textil y moda
-CALZADOS ORTOPEDICOS: ESTABLECIMIENTOS: textil y moda
-CALZADOS: FABRICANTES Y MAYORISTAS: textil y moda
-CALZADOS: MAYORISTAS: textil y moda
-CALZADOS: REPARACION Y LIMPIEZA: textil y moda
-CAMAS Y ARTICULOS PARA CAMAS: ESTABLECIMIENTOS: alimentacion
+CALZADOS A MEDIDA: automocion
+CALZADOS ORTOPEDICOS: ESTABLECIMIENTOS: salud y medicina
+CALZADOS: FABRICANTES Y MAYORISTAS: salud y medicina
+CALZADOS: MAYORISTAS: salud y medicina
+CALZADOS: REPARACION Y LIMPIEZA: automocion
+CAMAS Y ARTICULOS PARA CAMAS: ESTABLECIMIENTOS: salud y medicina
 CAMIONES: COMPRA-VENTA: logistica y transporte
 CAMIONES: CONCESIONARIOS: logistica y transporte
 CAMPINGS: hosteleria y turismo
-CANALONES: alimentacion
-CANGUROS: alimentacion
-CANNABIS DERIVADOS Y ACCESORIOS (GROWSHOP): ESTABLECIMIENTOS: suministros y materiales
+CANALONES: desconocido
+CANGUROS: desconocido
+CANNABIS DERIVADOS Y ACCESORIOS (GROWSHOP): ESTABLECIMIENTOS: textil y moda
 CANTERAS: mineria y extraccion
 CANTERIAS: desconocido
-CARAVANAS Y AUTOCARAVANAS: ALQUILER: servicios profesionales
-CARAVANAS: VENTA Y SERVICIOS: suministros y materiales
-CARBON Y LEÑA: mineria y extraccion
-CARCASAS: FABRICANTES Y MAYORISTAS: comercio y ventas
-CARNE: MAYORISTAS: comercio y ventas
+CARAVANAS Y AUTOCARAVANAS: ALQUILER: salud y medicina
+CARAVANAS: VENTA Y SERVICIOS: servicios profesionales
+CARBON Y LEÑA: automocion
+CARCASAS: FABRICANTES Y MAYORISTAS: salud y medicina
+CARNE: MAYORISTAS: salud y medicina
 CARNICERIAS: alimentacion
-CARPAS: ALQUILER: desconocido
-CARPINTERIA DE ALUMINIO: industria y manufactura
-CARPINTERIA DE MADERA: industria y manufactura
-CARPINTERIA DE MADERA, PVC, ALUMINIO Y METAL: INSTALACIONES: industria y manufactura
-CARPINTERIA DE PVC: industria y manufactura
-CARPINTERIA METALICA: industria y manufactura
-CARRETILLAS ELEVADORAS: REPARACION: servicios profesionales
-CARRETILLAS ELEVADORAS: VENTA Y ALQUILER: suministros y materiales
-CARRETILLAS: VENTA Y ALQUILER: suministros y materiales
-CARTOGRAFIA: medios de comunicacion
-CARTON: FABRICAS: industria y manufactura
-CASAS DE HUESPEDES: hosteleria y turismo
+CARPAS: ALQUILER: salud y medicina
+CARPINTERIA DE ALUMINIO: construccion e inmobiliaria
+CARPINTERIA DE MADERA: construccion e inmobiliaria
+CARPINTERIA DE MADERA, PVC, ALUMINIO Y METAL: INSTALACIONES: construccion e inmobiliaria
+CARPINTERIA DE PVC: construccion e inmobiliaria
+CARPINTERIA METALICA: construccion e inmobiliaria
+CARRETILLAS ELEVADORAS: REPARACION: construccion e inmobiliaria
+CARRETILLAS ELEVADORAS: VENTA Y ALQUILER: construccion e inmobiliaria
+CARRETILLAS: VENTA Y ALQUILER: construccion e inmobiliaria
+CARTOGRAFIA: servicios profesionales
+CARTON: FABRICAS: servicios profesionales
+CASAS DE HUESPEDES: servicios profesionales
 CASAS RURALES: ALOJAMIENTO RURAL: hosteleria y turismo
 CATERING: hosteleria y turismo
-CAUCHO Y GOMA ARTICULOS: FABRICANTES Y MAYORISTAS: comercio y ventas
-CEMENTERIOS PRIVADOS: servicios publicos
-CEMENTOS: MAYORISTAS: comercio y ventas
+CAUCHO Y GOMA ARTICULOS: FABRICANTES Y MAYORISTAS: salud y medicina
+CEMENTERIOS PRIVADOS: telecomunicaciones
+CEMENTOS: MAYORISTAS: salud y medicina
 CENTRALES DE ENERGIA: energia y medio ambiente
 CENTRALES DE ENERGIA SOLAR FOTOVOLTAICA: energia y medio ambiente
 CENTRALES DE ENERGIA SOLAR TERMOELECTRICA: energia y medio ambiente
-CENTROS ASISTENCIALES DE DIA: servicios publicos
+CENTROS ASISTENCIALES DE DIA: servicios profesionales
 CENTROS COMERCIALES: comercio y ventas
-CENTROS DE CORRECCION AUDITIVA: servicios publicos
+CENTROS DE CORRECCION AUDITIVA: servicios profesionales
 CENTROS DE EDUCACION SECUNDARIA: educacion y formacion
-CENTROS DE NEGOCIO: suministros y materiales
+CENTROS DE NEGOCIO: servicios profesionales
 CENTROS DE OCIO: entretenimiento y ocio
 CENTROS MEDICOS: servicios publicos
 CENTROS PRIVADOS DE EDUCACION INFANTIL: educacion y formacion
 CENTROS PRIVADOS DE FORMACION PROFESIONAL: educacion y formacion
-CENTROS PRIVADOS DE REHABILITACION DE DAÑOS CEREBRALES: servicios publicos
-CENTROS Y SERVICIOS SANITARIOS: EMPRESAS DE GESTION: suministros y materiales
-CERAMICA: ESTABLECIMIENTOS: industria y manufactura
+CENTROS PRIVADOS DE REHABILITACION DE DAÑOS CEREBRALES: servicios profesionales
+CENTROS Y SERVICIOS SANITARIOS: EMPRESAS DE GESTION: servicios profesionales
+CERAMICA: ESTABLECIMIENTOS: salud y medicina
 CERAMICA: FABRICACION: industria y manufactura
 CEREALES: PRODUCCION: industria y manufactura
-CERRAJERIAS: servicios profesionales
-CERRAJEROS: servicios profesionales
-CERTIFICADOS MEDICOS: servicios publicos
+CERRAJERIAS: desconocido
+CERRAJEROS: telecomunicaciones
+CERTIFICADOS MEDICOS: telecomunicaciones
 CERVECERIA RESTAURANTE: hosteleria y turismo
-CERVECERIAS: textil y moda
-CERVEZAS: DISTRIBUCION: desconocido
+CERVECERIAS: desconocido
+CERVEZAS: DISTRIBUCION: industria y manufactura
 CHAPISTERIAS: desconocido
-CHARCUTERIAS Y SALCHICHERIAS: otros
-CHATARRAS: alimentacion
-CHIMENEAS Y BARBACOAS: FABRICANTES Y MAYORISTAS: comercio y ventas
+CHARCUTERIAS Y SALCHICHERIAS: salud y medicina
+CHATARRAS: desconocido
+CHIMENEAS Y BARBACOAS: FABRICANTES Y MAYORISTAS: salud y medicina
 CHOCOLATERIAS: desconocido
-CHOFERES: logistica y transporte
-CHURRERIAS: desconocido
-CIENCIAS OCULTAS: informatica y tecnologia
-CIERRES METALICOS: suministros y materiales
-CIGARRILLOS ELECTRONICOS: ESTABLECIMIENTOS: suministros y materiales
+CHOFERES: servicios profesionales
+CHURRERIAS: alimentacion
+CIENCIAS OCULTAS: servicios profesionales
+CIERRES METALICOS: otros
+CIGARRILLOS ELECTRONICOS: ESTABLECIMIENTOS: salud y medicina
 CINE Y TV: ESTUDIOS Y PLATOS: arte y cultura
-CLINICAS CAPILARES: salud y medicina
-CLINICAS DE ESTETICA: salud y medicina
-CLINICAS DE FERTILIDAD Y REPRODUCCION ASISTIDA: salud y medicina
-CLINICAS DE RADIODIAGNOSTICO: DIAGNOSTICO POR IMAGEN: salud y medicina
-CLINICAS DENTALES: salud y medicina
-CLINICAS MEDICAS: salud y medicina
+CLINICAS CAPILARES: servicios profesionales
+CLINICAS DE ESTETICA: belleza
+CLINICAS DE FERTILIDAD Y REPRODUCCION ASISTIDA: belleza
+CLINICAS DE RADIODIAGNOSTICO: DIAGNOSTICO POR IMAGEN: servicios profesionales
+CLINICAS DENTALES: servicios profesionales
+CLINICAS MEDICAS: servicios profesionales
 CLINICAS OFTALMOLOGICAS: salud y medicina
-CLINICAS PODOLOGICAS: salud y medicina
-CLINICAS VETERINARIAS: salud y medicina
+CLINICAS PODOLOGICAS: servicios profesionales
+CLINICAS VETERINARIAS: servicios profesionales
 COCHES Y SILLAS DE BEBES: DISTRIBUCION: automocion
-COCINA EGIPCIA: textil y moda
-COCINEROS: hosteleria y turismo
+COCINA EGIPCIA: belleza
+COCINEROS: logistica y transporte
 COCTELERIAS: desconocido
-COLAS Y PEGAMENTOS: FABRICACION: suministros y materiales
+COLAS Y PEGAMENTOS: FABRICACION: industria y manufactura
 COLCHONERIAS: desconocido
-COLECCIONISMO: arte y cultura
-COLEGIOS PRIVADOS: educacion y formacion
-COMBUSTIBLES SOLIDOS: mineria y extraccion
-COMICS: arte y cultura
-COMIDAS A DOMICILIO: hosteleria y turismo
-COMIDAS PARA ANIMALES A DOMICILIO: hosteleria y turismo
+COLECCIONISMO: desconocido
+COLEGIOS PRIVADOS: servicios publicos
+COMBUSTIBLES SOLIDOS: servicios profesionales
+COMICS: entretenimiento y ocio
+COMIDAS A DOMICILIO: automocion
+COMIDAS PARA ANIMALES A DOMICILIO: belleza
 COMIDAS PREPARADAS: hosteleria y turismo
-COMPAÑIAS NAVALES DE CRUCEROS: suministros y materiales
-COMPAÑIAS PESQUERAS: alimentacion
-COMPLEMENTOS DEL VESTIR: ESTABLECIMIENTOS: suministros y materiales
+COMPAÑIAS NAVALES DE CRUCEROS: servicios profesionales
+COMPAÑIAS PESQUERAS: desconocido
+COMPLEMENTOS DEL VESTIR: ESTABLECIMIENTOS: salud y medicina
 COMPLEMENTOS DEL VESTIR: FABRICACION: industria y manufactura
-COMPONENTES ELECTRONICOS PASIVOS: FABRICACION: suministros y materiales
-COMPONENTES ELECTRONICOS: FABRICACION: suministros y materiales
-COMPONENTES ELECTRONICOS: FABRICANTES Y MAYORISTAS: comercio y ventas
+COMPONENTES ELECTRONICOS PASIVOS: FABRICACION: industria y manufactura
+COMPONENTES ELECTRONICOS: FABRICACION: industria y manufactura
+COMPONENTES ELECTRONICOS: FABRICANTES Y MAYORISTAS: salud y medicina
 COMPRESORES: FABRICANTES Y MINORISTAS: comercio y ventas
-COMPRESORES: REPARACION: servicios profesionales
+COMPRESORES: REPARACION: automocion
 CONFECCION DE ROPA DE TRABAJO: textil y moda
 CONFECCION DE SEÑORA: textil y moda
 CONFECCION DIVERSA: textil y moda
 CONFECCION INFANTIL: textil y moda
 CONFECCION: TALLERES DE COSTURA: textil y moda
-CONSERVAS VEGETALES: FABRICANTES Y MAYORISTAS: comercio y ventas
-CONSERVATORIOS DE MUSICA: educacion y formacion
+CONSERVAS VEGETALES: FABRICANTES Y MAYORISTAS: belleza
+CONSERVATORIOS DE MUSICA: belleza
 CONSTRUCCION ESPECIALIZADA: construccion e inmobiliaria
 CONSTRUCCION MATERIALES: EXPORTACION: construccion e inmobiliaria
 CONSTRUCCION Y PROMOCION: CONTROL DE OBRAS Y PROYECTOS: construccion e inmobiliaria
@@ -402,71 +402,71 @@ CONSTRUCCIONES PREFABRICADAS: construccion e inmobiliaria
 CONSULTORIA INDUSTRIAL: consultoria y asesoria
 CONSULTORIAS DE EMPRESAS: consultoria y asesoria
 CONSULTORIAS INMOBILIARIAS: consultoria y asesoria
-CONTABLES: consultoria y asesoria
-CONTENEDORES: ALQUILER: suministros y materiales
-CONTRATISTAS DE OBRAS: construccion e inmobiliaria
-COOPERATIVAS AGRARIAS: servicios publicos
-COOPERATIVAS DE VIVIENDAS: construccion e inmobiliaria
+CONTABLES: banca y finanzas
+CONTENEDORES: ALQUILER: salud y medicina
+CONTRATISTAS DE OBRAS: servicios profesionales
+COOPERATIVAS AGRARIAS: servicios profesionales
+COOPERATIVAS DE VIVIENDAS: servicios profesionales
 COPISTERIAS: desconocido
-CORCHO ARTICULOS: FABRICANTES Y MAYORISTAS: comercio y ventas
-CORREDORES DE NEGOCIOS (BROKERS): EMPRESAS: suministros y materiales
-CORREDORES FINANCIEROS: servicios publicos
+CORCHO ARTICULOS: FABRICANTES Y MAYORISTAS: salud y medicina
+CORREDORES DE NEGOCIOS (BROKERS): EMPRESAS: textil y moda
+CORREDORES FINANCIEROS: banca y finanzas
 CORTINAS: CONFECCION E INSTALACION: textil y moda
-COSMETICA MATERIAS PRIMAS: FABRICACION: industria y manufactura
-COSMETICA: DISTRIBUIDORES: suministros y materiales
-COSMETICA: ESTABLECIMIENTOS: suministros y materiales
-COSMETICA: FABRICANTES Y MAYORISTAS: comercio y ventas
+COSMETICA MATERIAS PRIMAS: FABRICACION: belleza
+COSMETICA: DISTRIBUIDORES: belleza
+COSMETICA: ESTABLECIMIENTOS: belleza
+COSMETICA: FABRICANTES Y MAYORISTAS: belleza
 CREDITO: ENTIDADES: banca y finanzas
 CREPERIAS: desconocido
 CRISTALERIAS: desconocido
-CRISTALERIAS PARA VEHICULOS: automocion
-CUADROS Y REPRODUCCIONES ARTISTICAS: ESTABLECIMIENTOS: recursos humanos
+CRISTALERIAS PARA VEHICULOS: telecomunicaciones
+CUADROS Y REPRODUCCIONES ARTISTICAS: ESTABLECIMIENTOS: salud y medicina
 CUBIERTAS PARA EDIFICIOS Y TEJADOS: construccion e inmobiliaria
-CUIDADOS NO MEDICOS: CENTROS: servicios profesionales
-Cabaña: agricultura
-Cabaña de montaña: agricultura
+CUIDADOS NO MEDICOS: CENTROS: salud y medicina
+Cabaña: desconocido
+Cabaña de montaña: belleza
 Cafetería: hosteleria y turismo
-Café bar: entretenimiento y ocio
-Cama y Desayuno: servicios profesionales
+Café bar: hosteleria y turismo
+Cama y Desayuno: automocion
 Camping: hosteleria y turismo
 Cantera: mineria y extraccion
 Cardiólogo: salud y medicina
-Carnicería delicatessen: hosteleria y turismo
-Carpintero: servicios profesionales
-Casa de Campo: agricultura
-Casa de empeño: construccion e inmobiliaria
-Casa de huespedes: hosteleria y turismo
-Casa de retiro: suministros y materiales
-Casa de vacaciones para no fumadores: alimentacion
+Carnicería delicatessen: alimentacion
+Carpintero: automocion
+Casa de Campo: informatica y tecnologia
+Casa de empeño: servicios profesionales
+Casa de huespedes: servicios profesionales
+Casa de retiro: servicios profesionales
+Casa de vacaciones para no fumadores: servicios profesionales
 Catering móvil: hosteleria y turismo
-Celebración de funerales: servicios publicos
-Central eléctrica: energia y medio ambiente
-Centro Médico: salud y medicina
-Centro de bienestar: servicios profesionales
-Centro de buceo: hosteleria y turismo
-Centro de cuidado diurno: servicios profesionales
-Centro de cuidado diurno para adultos: servicios profesionales
+Celebración de funerales: servicios profesionales
+Central eléctrica: servicios publicos
+Centro Médico: quimica y farmaceutica
+Centro de bienestar: belleza
+Centro de buceo: belleza
+Centro de cuidado diurno: belleza
+Centro de cuidado diurno para adultos: belleza
 Centro de deportes adaptados: deportes y recreacion
 Centro de deportes de aventura: deportes y recreacion
-Centro de diversiones para niños: alimentacion
-Centro de entrenamiento: deportes y recreacion
-Centro de escape room: hosteleria y turismo
-Centro de examen físico: deportes y recreacion
+Centro de diversiones para niños: servicios profesionales
+Centro de entrenamiento: servicios profesionales
+Centro de escape room: servicios profesionales
+Centro de examen físico: arte y cultura
 Centro de formación: educacion y formacion
-Centro de gimnasia: deportes y recreacion
-Centro de jardinería: servicios profesionales
-Centro de meditación: servicios profesionales
-Centro de reciclaje: suministros y materiales
-Centro de recuperación: servicios publicos
-Centro de refuerzo escolar: suministros y materiales
-Centro de retiro de yoga: hosteleria y turismo
-Centro de salud infantil: hosteleria y turismo
+Centro de gimnasia: belleza
+Centro de jardinería: belleza
+Centro de meditación: belleza
+Centro de reciclaje: servicios profesionales
+Centro de recuperación: servicios profesionales
+Centro de refuerzo escolar: servicios profesionales
+Centro de retiro de yoga: salud y medicina
+Centro de salud infantil: arte y cultura
 Centro educativo: educacion y formacion
-Cerrajero: servicios profesionales
-Cervecería: hosteleria y turismo
-Charcutería: hosteleria y turismo
-Chatarrería: hosteleria y turismo
-Churreria: desconocido
+Cerrajero: construccion e inmobiliaria
+Cervecería: desconocido
+Charcutería: desconocido
+Chatarrería: desconocido
+Churreria: alimentacion
 Cirujano ortopédico: salud y medicina
 Cirujano plástico: salud y medicina
 Clase de cocina: educacion y formacion
@@ -480,9 +480,9 @@ Clínica de medicina china: salud y medicina
 Clínica de psicopedagogía: salud y medicina
 Clínica dental: salud y medicina
 Clínica especializada: salud y medicina
-Coctelería: textil y moda
+Coctelería: desconocido
 Comerciante de arte: arte y cultura
-Comerciante de ganado: agricultura
+Comerciante de ganado: servicios profesionales
 Comida para llevar indio: hosteleria y turismo
 Comida para llevar sushi: hosteleria y turismo
 Compañia farmaceutica: quimica y farmaceutica
@@ -491,68 +491,68 @@ Compañía de agua mineral: mineria y extraccion
 Compañía de camiones: logistica y transporte
 Compañía de inversión: banca y finanzas
 Compañía de seguros: banca y finanzas
-Compañía de servicios de agua: suministros y materiales
-Compañía de servicios eléctricos: suministros y materiales
-Complejo de apartamentos: suministros y materiales
-Compraventa de automóviles: automocion
+Compañía de servicios de agua: servicios profesionales
+Compañía de servicios eléctricos: servicios profesionales
+Complejo de apartamentos: servicios profesionales
+Compraventa de automóviles: servicios profesionales
 Concesionario Citroen: automocion
 Concesionario de autos usados: automocion
 Concesionario de motos: automocion
 Concesionario de tractores: automocion
 Concesionario de vehículos de motor: automocion
-Consejero: servicios publicos
-Constructor: construccion e inmobiliaria
-Constructor de viviendas personalizado: construccion e inmobiliaria
-Consultor: consultoria y asesoria
+Consejero: banca y finanzas
+Constructor: banca y finanzas
+Constructor de viviendas personalizado: servicios profesionales
+Consultor: telecomunicaciones
 Consultor ambiental: energia y medio ambiente
 Consultor audiovisual: consultoria y asesoria
-Consultor de gestión empresarial: consultoria y asesoria
-Consultor de ingenieria: suministros y materiales
-Consultor de salud: servicios publicos
+Consultor de gestión empresarial: informatica y tecnologia
+Consultor de ingenieria: servicios profesionales
+Consultor de salud: servicios profesionales
 Consultor economico: consultoria y asesoria
-Consultor financiero: consultoria y asesoria
-Consultor fiscal: consultoria y asesoria
-Consultor informático: consultoria y asesoria
-Consultor inmobiliario: consultoria y asesoria
-Consultor laboral: consultoria y asesoria
+Consultor financiero: banca y finanzas
+Consultor fiscal: telecomunicaciones
+Consultor informático: banca y finanzas
+Consultor inmobiliario: suministros y materiales
+Consultor laboral: recursos humanos
 Consultora educativa: educacion y formacion
 Consultoría de recursos humanos: consultoria y asesoria
-Contratista: servicios publicos
-Contratista de aire acondicionado: energia y medio ambiente
-Contratista de aislamiento: servicios publicos
+Contratista: banca y finanzas
+Contratista de aire acondicionado: banca y finanzas
+Contratista de aislamiento: servicios profesionales
 Contratista de albañilería: construccion e inmobiliaria
-Contratista de calefacción: suministros y materiales
+Contratista de calefacción: servicios profesionales
 Contratista de construcción de interiores: construccion e inmobiliaria
-Contratista de excavación: construccion e inmobiliaria
-Contratista de hierro y acero: industria y manufactura
-Contratista de hormigón: suministros y materiales
-Contratista de iluminación: construccion e inmobiliaria
-Contratista de madera: suministros y materiales
-Contratista de mármol: construccion e inmobiliaria
-Contratista de perforación: suministros y materiales
-Contratista de piscinas: servicios publicos
-Contratista de pisos: construccion e inmobiliaria
-Contratista de revestimiento: suministros y materiales
-Contratista de telecomunicaciones: servicios publicos
-Contratista general: servicios publicos
-Contratista mecánico: automocion
+Contratista de excavación: servicios profesionales
+Contratista de hierro y acero: belleza
+Contratista de hormigón: servicios profesionales
+Contratista de iluminación: servicios profesionales
+Contratista de madera: servicios profesionales
+Contratista de mármol: servicios profesionales
+Contratista de perforación: servicios profesionales
+Contratista de piscinas: servicios profesionales
+Contratista de pisos: servicios profesionales
+Contratista de revestimiento: servicios profesionales
+Contratista de telecomunicaciones: servicios profesionales
+Contratista general: banca y finanzas
+Contratista mecánico: servicios profesionales
 Cooperativa agrícola: agricultura
-Cooperativa de aceite de oliva: suministros y materiales
-Copistería: servicios profesionales
-Corredor de alimentos: suministros y materiales
+Cooperativa de aceite de oliva: servicios profesionales
+Copistería: desconocido
+Corredor de alimentos: servicios profesionales
 Corredor de seguros: banca y finanzas
-Cosmetólogo: salud y medicina
-Criador de ganado: agricultura
-Criador de perros: alimentacion
-Cuidado veterinario: servicios profesionales
-DANZA: ESCUELAS: desconocido
-DECORACION ARTICULOS: ESTABLECIMIENTOS: textil y moda
-DECORACION: PROYECTOS: desconocido
-DECORADORES Y DISEÑADORES DE INTERIORES: otros
-DELICATESSEN: ESTABLECIMIENTOS: desconocido
+Cosmetólogo: desconocido
+Criador de ganado: servicios profesionales
+Criador de perros: servicios profesionales
+Cuidado veterinario: belleza
+DANZA: ESCUELAS: salud y medicina
+DECORACION ARTICULOS: ESTABLECIMIENTOS: salud y medicina
+DECORACION: PROYECTOS: salud y medicina
+DECORADORES Y DISEÑADORES DE INTERIORES: belleza
+DELICATESSEN: ESTABLECIMIENTOS: salud y medicina
 DELINEACION: desconocido
-DELINEANTES Y DISEÑADORES TECNICOS: otros
-DEPILACION: servicios profesionales
+DELINEANTES Y DISEÑADORES TECNICOS: salud y medicina
+DEPILACION: belleza
 DEPORTES ARTICULOS: FABRICANTES Y MAYORISTAS: deportes y recreacion
 DEPORTES ARTICULOS: OFICINAS DE GESTION DE TIENDAS: deportes y recreacion
 DEPORTES DE AVENTURA: deportes y recreacion
@@ -560,38 +560,38 @@ DEPORTES NAUTICOS: ESCUELAS: deportes y recreacion
 DEPORTES Y OCIO: ENSEÑANZA: deportes y recreacion
 DEPORTES: ESTABLECIMIENTOS: deportes y recreacion
 DEPORTES: MONITORES Y ENTRENADORES: deportes y recreacion
-DEPOSITOS DENTALES: alimentacion
+DEPOSITOS DENTALES: servicios profesionales
 DESARROLLO PERSONAL Y PROFESIONAL (COACHING): recursos humanos
-DESGUACES DE VEHICULOS Y MAQUINARIA: automocion
-DESHOLLINADORES: otros
+DESGUACES DE VEHICULOS Y MAQUINARIA: industria y manufactura
+DESHOLLINADORES: servicios profesionales
 DESINFECCION, DESRATIZACION Y DESINSECTACION: servicios profesionales
-DESTRUCCION DE DOCUMENTOS Y ARCHIVOS: GESTION: suministros y materiales
-DETECTIVES PRIVADOS: servicios publicos
-DETERGENTES Y JABONES: FABRICANTES Y MAYORISTAS: comercio y ventas
+DESTRUCCION DE DOCUMENTOS Y ARCHIVOS: GESTION: salud y medicina
+DETECTIVES PRIVADOS: textil y moda
+DETERGENTES Y JABONES: FABRICANTES Y MAYORISTAS: salud y medicina
 DETERGENTES: FABRICACION: industria y manufactura
-DIETETICA Y NUTRICION: recursos humanos
-DISC JOCKEYS: desconocido
+DIETETICA Y NUTRICION: salud y medicina
+DISC JOCKEYS: logistica y transporte
 DISCOTECAS: desconocido
 DISEÑO DE MODA Y PATRONAJE: textil y moda
 DISEÑO DE PACKAGING: textil y moda
 DISEÑO GRAFICO: textil y moda
 DISEÑO INDUSTRIAL: textil y moda
-DISFRACES: VENTA Y ALQUILER: textil y moda
-DISTRIBUCION: suministros y materiales
-DROGUERIAS: ESTABLECIMIENTOS: desconocido
-DULCES Y GALLETAS: FABRICANTES Y MAYORISTAS: comercio y ventas
+DISFRACES: VENTA Y ALQUILER: automocion
+DISTRIBUCION: industria y manufactura
+DROGUERIAS: ESTABLECIMIENTOS: salud y medicina
+DULCES Y GALLETAS: FABRICANTES Y MAYORISTAS: salud y medicina
 Decorador de interiores: servicios profesionales
 Dentista: salud y medicina
 Deportes de aventura: deportes y recreacion
-Desguace: automocion
-Dietista: salud y medicina
+Desguace: servicios profesionales
+Dietista: desconocido
 Discoteca: desconocido
-Diseñador arquitectónico: arte y cultura
+Diseñador arquitectónico: desconocido
 Diseñador de flores: servicios profesionales
-Diseñador de interiores: suministros y materiales
+Diseñador de interiores: servicios profesionales
 Diseñador de moda: textil y moda
-Diseñador grafico: informatica y tecnologia
-Diseñadora de joyas: textil y moda
+Diseñador grafico: servicios profesionales
+Diseñadora de joyas: belleza
 Distribuidor de barcos: suministros y materiales
 Distribuidor de bebidas: suministros y materiales
 Distribuidor de cerveza: suministros y materiales
@@ -599,245 +599,245 @@ Distribuidor de chatarra: suministros y materiales
 Distribuidor de oro: suministros y materiales
 Distribuidor de papel: suministros y materiales
 EBANISTERIAS: desconocido
-ECOLOGIA: PRODUCTOS: industria y manufactura
-ECONOMATOS: alimentacion
-ECONOMISTAS: servicios publicos
+ECOLOGIA: PRODUCTOS: salud y medicina
+ECONOMATOS: desconocido
+ECONOMISTAS: consultoria y asesoria
 EDIFICIOS: MANTENIMIENTO INTEGRAL: construccion e inmobiliaria
-EDITORAS DE AUDIOVISUALES (VIDEO): desconocido
-EDITORIALES: medios de comunicacion
-EDITORIALES DE PRENSA: medios de comunicacion
+EDITORAS DE AUDIOVISUALES (VIDEO): servicios profesionales
+EDITORIALES: servicios profesionales
+EDITORIALES DE PRENSA: servicios profesionales
 ELECTRICIDAD: ESTABLECIMIENTOS: energia y medio ambiente
 ELECTRICIDAD: INGENIERIA: energia y medio ambiente
 ELECTRICIDAD: INSTALACIONES: energia y medio ambiente
 ELECTRICIDAD: INSTALACIONES INDUSTRIALES: energia y medio ambiente
 ELECTRICIDAD: TALLERES: energia y medio ambiente
-ELECTRICISTAS: servicios profesionales
-ELECTRODOMESTICOS: ESTABLECIMIENTOS: suministros y materiales
-ELECTRODOMESTICOS: FABRICANTES Y MAYORISTAS: comercio y ventas
-ELECTRODOMESTICOS: MAYORISTAS: comercio y ventas
-ELECTRODOMESTICOS: RECAMBIOS Y ACCESORIOS: suministros y materiales
-ELECTRODOMESTICOS: REPARACION: servicios profesionales
+ELECTRICISTAS: construccion e inmobiliaria
+ELECTRODOMESTICOS: ESTABLECIMIENTOS: salud y medicina
+ELECTRODOMESTICOS: FABRICANTES Y MAYORISTAS: salud y medicina
+ELECTRODOMESTICOS: MAYORISTAS: salud y medicina
+ELECTRODOMESTICOS: RECAMBIOS Y ACCESORIOS: textil y moda
+ELECTRODOMESTICOS: REPARACION: automocion
 ELECTROMECANICA: desconocido
-ELECTRONICA EQUIPOS: FABRICACION: suministros y materiales
-ELECTRONICA EQUIPOS: MAYORISTAS: comercio y ventas
-ELECTRONICA EQUIPOS: REPARACION: servicios profesionales
-ELECTRONICA MATERIALES PARA LA INDUSTRIA: DISTRIBUCION: industria y manufactura
-ELECTRONICA NAVAL: logistica y transporte
-ELECTRONICA: ESTABLECIMIENTOS: informatica y tecnologia
-ELECTRONICA: INGENIERIA: informatica y tecnologia
-ELECTRONICA: TECNICAS E INSTALACIONES: informatica y tecnologia
-EMBALAJES: suministros y materiales
+ELECTRONICA EQUIPOS: FABRICACION: industria y manufactura
+ELECTRONICA EQUIPOS: MAYORISTAS: salud y medicina
+ELECTRONICA EQUIPOS: REPARACION: automocion
+ELECTRONICA MATERIALES PARA LA INDUSTRIA: DISTRIBUCION: suministros y materiales
+ELECTRONICA NAVAL: servicios profesionales
+ELECTRONICA: ESTABLECIMIENTOS: salud y medicina
+ELECTRONICA: INGENIERIA: salud y medicina
+ELECTRONICA: TECNICAS E INSTALACIONES: salud y medicina
+EMBALAJES: telecomunicaciones
 EMBUTIDOS: FABRICACION: industria y manufactura
 EMISORAS DE TELEVISION: medios de comunicacion
-EMPRESAS CONSTRUCTORAS: construccion e inmobiliaria
+EMPRESAS CONSTRUCTORAS: telecomunicaciones
 EMPRESAS DE SERVICIOS DE MANTENIMIENTO DE INSTALACIONES EN EDIFICIOS: servicios profesionales
 EMPRESAS DE TRABAJO TEMPORAL: recursos humanos
-ENCAJES Y BORDADOS: ESTABLECIMIENTOS: textil y moda
-ENCOFRADOS: alimentacion
+ENCAJES Y BORDADOS: ESTABLECIMIENTOS: salud y medicina
+ENCOFRADOS: desconocido
 ENERGIA ELECTRICA: EMPRESAS COMERCIALIZADORAS: energia y medio ambiente
 ENERGIA ELECTRICA: PRODUCCION: energia y medio ambiente
 ENERGIA SOLAR: energia y medio ambiente
 ENERGIA: CONSULTORIAS: energia y medio ambiente
-ENSEÑANZAS ARTISTICAS: educacion y formacion
-ENTIDADES DE CERTIFICACION Y NORMALIZACION: servicios publicos
-ENTIDADES DE INSPECCION DE CALIDAD: servicios publicos
-ENVASES DE CARTON: suministros y materiales
-ENVASES DE PLASTICO: suministros y materiales
-ENVASES Y EMBALAJES ACCESORIOS: FABRICACION: suministros y materiales
-EQUITACION: ESCUELAS: desconocido
+ENSEÑANZAS ARTISTICAS: servicios profesionales
+ENTIDADES DE CERTIFICACION Y NORMALIZACION: belleza
+ENTIDADES DE INSPECCION DE CALIDAD: servicios profesionales
+ENVASES DE CARTON: servicios profesionales
+ENVASES DE PLASTICO: servicios profesionales
+ENVASES Y EMBALAJES ACCESORIOS: FABRICACION: textil y moda
+EQUITACION: ESCUELAS: salud y medicina
 ESCAYOLAS: desconocido
 ESCENOGRAFIA: desconocido
-ESCOMBROS: RECUPERACION: desconocido
+ESCOMBROS: RECUPERACION: salud y medicina
 ESCUELAS DE ARTE DRAMATICO: arte y cultura
-ESCUELAS DE COCINA: servicios profesionales
+ESCUELAS DE COCINA: belleza
 ESCUELAS DE HOSTELERIA: hosteleria y turismo
-ESCUELAS DE NAVEGACION DEPORTIVA: suministros y materiales
-ESCUELAS OFICIALES DE IDIOMAS: servicios publicos
+ESCUELAS DE NAVEGACION DEPORTIVA: agricultura
+ESCUELAS OFICIALES DE IDIOMAS: servicios profesionales
 ESCULTURAS: desconocido
 ESPACIOS DE TRABAJO COMPARTIDOS (COWORKING): recursos humanos
-ESPECTACULOS MATERIALES: ALQUILER: entretenimiento y ocio
-ESPECTACULOS: AGENCIAS: entretenimiento y ocio
-ESTACIONES DE AUTOBUSES: suministros y materiales
-ESTACIONES DE SERVICIO: suministros y materiales
-ESTACIONES DE SERVICIO: EQUIPOS E INSTALACIONES: suministros y materiales
-ESTANTERIAS: FABRICANTES Y MAYORISTAS: comercio y ventas
-ESTETICA: APARATOS E INSTRUMENTOS: informatica y tecnologia
-ESTETICA: CENTROS: informatica y tecnologia
-ESTRUCTURAS DE HORMIGON: suministros y materiales
-ESTRUCTURAS DE MADERA PREFABRICADAS: industria y manufactura
-ESTRUCTURAS METALICAS: suministros y materiales
+ESPECTACULOS MATERIALES: ALQUILER: suministros y materiales
+ESPECTACULOS: AGENCIAS: consultoria y asesoria
+ESTACIONES DE AUTOBUSES: servicios profesionales
+ESTACIONES DE SERVICIO: servicios profesionales
+ESTACIONES DE SERVICIO: EQUIPOS E INSTALACIONES: banca y finanzas
+ESTANTERIAS: FABRICANTES Y MAYORISTAS: salud y medicina
+ESTETICA: APARATOS E INSTRUMENTOS: belleza
+ESTETICA: CENTROS: belleza
+ESTRUCTURAS DE HORMIGON: servicios profesionales
+ESTRUCTURAS DE MADERA PREFABRICADAS: servicios profesionales
+ESTRUCTURAS METALICAS: servicios profesionales
 ETIQUETAS: FABRICACION: industria y manufactura
 EVENTOS: ORGANIZACION: entretenimiento y ocio
-EXCAVACIONES: construccion e inmobiliaria
-EXCURSIONES A CABALLO: alimentacion
-EXPOSICIONES: SALAS: arte y cultura
-Ebanista: arte y cultura
-Economato: agricultura
-Editor de libros: otros
-Electricista: servicios profesionales
-Empresa: recursos humanos
+EXCAVACIONES: telecomunicaciones
+EXCURSIONES A CABALLO: belleza
+EXPOSICIONES: SALAS: belleza
+Ebanista: desconocido
+Economato: desconocido
+Editor de libros: servicios profesionales
+Electricista: construccion e inmobiliaria
+Empresa: desconocido
 Empresa constructora: construccion e inmobiliaria
 Empresa constructora de canchas de tenis: construccion e inmobiliaria
 Empresa de automatización: informatica y tecnologia
-Empresa de climatización y aire acondicionado: servicios profesionales
+Empresa de climatización y aire acondicionado: construccion e inmobiliaria
 Empresa de construcción: construccion e inmobiliaria
 Empresa de construcción de carreteras: construccion e inmobiliaria
 Empresa de contabilidad: consultoria y asesoria
 Empresa de costura: servicios profesionales
 Empresa de diseño industrial: textil y moda
-Empresa de domótica: informatica y tecnologia
-Empresa de embalaje: suministros y materiales
+Empresa de domótica: servicios profesionales
+Empresa de embalaje: servicios profesionales
 Empresa de energía solar: energia y medio ambiente
-Empresa de fabricación de plástico: suministros y materiales
-Empresa de gestión de bases de datos: suministros y materiales
+Empresa de fabricación de plástico: industria y manufactura
+Empresa de gestión de bases de datos: servicios profesionales
 Empresa de gestión de eventos: entretenimiento y ocio
-Empresa de importación y exportación: suministros y materiales
-Empresa de mensajería: suministros y materiales
-Empresa operadora portuaria: logistica y transporte
+Empresa de importación y exportación: belleza
+Empresa de mensajería: servicios profesionales
+Empresa operadora portuaria: servicios publicos
 Endocrinólogo: salud y medicina
-Entrenador de perros: deportes y recreacion
+Entrenador de perros: servicios profesionales
 Entrenador personal: recursos humanos
-Entrenador vital: recursos humanos
-Equipos y soluciones energéticas: suministros y materiales
-Escalada de roca: mineria y extraccion
+Entrenador vital: quimica y farmaceutica
+Equipos y soluciones energéticas: salud y medicina
+Escalada de roca: belleza
 Escuela Internacional: servicios publicos
-Escuela bilingüe: educacion y formacion
+Escuela bilingüe: desconocido
 Escuela de Arte: arte y cultura
-Escuela de Musica: otros
-Escuela de aikido: deportes y recreacion
-Escuela de artes marciales: otros
-Escuela de baile: deportes y recreacion
-Escuela de belleza: servicios profesionales
+Escuela de Musica: belleza
+Escuela de aikido: belleza
+Escuela de artes marciales: servicios profesionales
+Escuela de baile: servicios profesionales
+Escuela de belleza: belleza
 Escuela de deportes: deportes y recreacion
-Escuela de gimnasia profesional: deportes y recreacion
-Escuela de idiomas: suministros y materiales
+Escuela de gimnasia profesional: servicios profesionales
+Escuela de idiomas: servicios profesionales
 Escuela de informática: informatica y tecnologia
-Escuela de ingles: suministros y materiales
-Escuela de natación: servicios publicos
-Escuela de surf: deportes y recreacion
+Escuela de ingles: servicios profesionales
+Escuela de natación: servicios profesionales
+Escuela de surf: servicios profesionales
 Espacio de trabajo conjunto: recursos humanos
-Establecimiento: servicios publicos
-Estancia en granjas: agricultura
-Estilista: textil y moda
+Establecimiento: recursos humanos
+Estancia en granjas: servicios profesionales
+Estilista: belleza
 Estudio de arquitectura: construccion e inmobiliaria
 Estudio de arte: arte y cultura
-Estudio de grabación: informatica y tecnologia
-Estudio de pilates: deportes y recreacion
-Estudio de pintura: construccion e inmobiliaria
-Estudio de vidrieras: construccion e inmobiliaria
-Estudio de yoga: deportes y recreacion
-Estudio fotografico: arte y cultura
+Estudio de grabación: servicios profesionales
+Estudio de pilates: servicios profesionales
+Estudio de pintura: belleza
+Estudio de vidrieras: servicios profesionales
+Estudio de yoga: salud y medicina
+Estudio fotografico: educacion y formacion
 FABRICACION: industria y manufactura
 FACHADAS ESTRUCTURALES Y ESPECIALES: CONSTRUCCION: construccion e inmobiliaria
-FARMACEUTICOS: alimentacion
-FARMACIAS: salud y medicina
-FERRETERIA, PINTURAS Y MATERIALES DE CONSTRUCCION: ESTABLECIMIENTOS: construccion e inmobiliaria
-FERRETERIAS: industria y manufactura
+FARMACEUTICOS: salud y medicina
+FARMACIAS: comercio y ventas
+FERRETERIA, PINTURAS Y MATERIALES DE CONSTRUCCION: ESTABLECIMIENTOS: comercio y ventas
+FERRETERIAS: comercio y ventas
 FIAMBRES: FABRICACION: industria y manufactura
 FIBRA OPTICA: FABRICACION: industria y manufactura
 FIESTAS ESPECTACULOS Y EVENTOS INFANTILES: ORGANIZACION: entretenimiento y ocio
-FIESTAS: ORGANIZACION: educacion y formacion
-FILATELIA: arte y cultura
-FILTROS PARA BEBIDAS: FABRICACION: suministros y materiales
-FINANCIACION: ENTIDADES: servicios publicos
+FIESTAS: ORGANIZACION: salud y medicina
+FILATELIA: desconocido
+FILTROS PARA BEBIDAS: FABRICACION: industria y manufactura
+FINANCIACION: ENTIDADES: salud y medicina
 FISIOTERAPEUTAS: salud y medicina
-FITOSANITARIOS PRODUCTOS: DISTRIBUCION: suministros y materiales
-FLORES Y PLANTAS ARTIFICIALES: FABRICANTES Y MAYORISTAS: comercio y ventas
-FLORES, PLANTAS Y ANIMALES DE COMPAÑIA: ESTABLECIMIENTOS: alimentacion
-FLORISTERIAS: textil y moda
+FITOSANITARIOS PRODUCTOS: DISTRIBUCION: salud y medicina
+FLORES Y PLANTAS ARTIFICIALES: FABRICANTES Y MAYORISTAS: salud y medicina
+FLORES, PLANTAS Y ANIMALES DE COMPAÑIA: ESTABLECIMIENTOS: belleza
+FLORISTERIAS: desconocido
 FONTANERIA MATERIALES: ALMACENES: suministros y materiales
-FONTANERIA, CALEFACCION Y AIRE ACONDICIONADO: INSTALACION Y REPARACION: servicios profesionales
+FONTANERIA, CALEFACCION Y AIRE ACONDICIONADO: INSTALACION Y REPARACION: automocion
 FONTANERIAS: desconocido
-FORJA ARTISTICA: arte y cultura
+FORJA ARTISTICA: servicios profesionales
 FORJADOS PARA LA CONSTRUCCION: construccion e inmobiliaria
 FORMACION OCUPACIONAL: educacion y formacion
-FOTOCOPIAS: consultoria y asesoria
-FOTOGRAFIA AEREA: logistica y transporte
-FOTOGRAFIA: ESTABLECIMIENTOS: desconocido
-FOTOGRAFIA: ESTUDIOS: arte y cultura
+FOTOCOPIAS: servicios profesionales
+FOTOGRAFIA AEREA: servicios profesionales
+FOTOGRAFIA: ESTABLECIMIENTOS: servicios profesionales
+FOTOGRAFIA: ESTUDIOS: servicios profesionales
 FOTOGRAFIA: LABORATORIOS: salud y medicina
-FOTOGRAFOS: arte y cultura
+FOTOGRAFOS: servicios profesionales
 FOTOGRAMETRIA: desconocido
 FRIO INDUSTRIAL MAQUINAS Y EQUIPOS: REPARACION: industria y manufactura
 FRIO INDUSTRIAL: VENTA Y REPARACION: industria y manufactura
-FRUTAS Y HORTALIZAS: MANIPULADORES: alimentacion
-FRUTAS Y HORTALIZAS: MAYORISTAS: comercio y ventas
-FRUTAS: MAYORISTAS: comercio y ventas
+FRUTAS Y HORTALIZAS: MANIPULADORES: belleza
+FRUTAS Y HORTALIZAS: MAYORISTAS: salud y medicina
+FRUTAS: MAYORISTAS: salud y medicina
 FRUTAS: PRODUCCION: industria y manufactura
-FRUTERIAS: desconocido
-FUMIGACIONES: servicios publicos
-FUNDICIONES: construccion e inmobiliaria
-FUNERARIAS: construccion e inmobiliaria
-FURGONETAS: ALQUILER: desconocido
-FUTBOL ARTICULOS: ESTABLECIMIENTOS: recursos humanos
-Fabricante: industria y manufactura
-Fabricante de aceite de oliva: suministros y materiales
-Fabricante de acero: industria y manufactura
-Fabricante de alcohol: suministros y materiales
-Fabricante de alimentos: suministros y materiales
-Fabricante de electrónica: suministros y materiales
-Fabricante de iluminación: suministros y materiales
-Fabricante de instrumentos de cuerda: suministros y materiales
-Fabricante de mecanizado: suministros y materiales
-Fabricante de metales: industria y manufactura
-Fabricante de muebles: suministros y materiales
-Fabricante de piensos: suministros y materiales
-Fabricante de pintura: industria y manufactura
-Fabricante de puertas: suministros y materiales
-Fabricante de remolques: suministros y materiales
+FRUTERIAS: alimentacion
+FUMIGACIONES: desconocido
+FUNDICIONES: desconocido
+FUNERARIAS: servicios profesionales
+FURGONETAS: ALQUILER: salud y medicina
+FUTBOL ARTICULOS: ESTABLECIMIENTOS: salud y medicina
+Fabricante: logistica y transporte
+Fabricante de aceite de oliva: belleza
+Fabricante de acero: servicios profesionales
+Fabricante de alcohol: servicios profesionales
+Fabricante de alimentos: servicios profesionales
+Fabricante de electrónica: servicios profesionales
+Fabricante de iluminación: servicios profesionales
+Fabricante de instrumentos de cuerda: servicios profesionales
+Fabricante de mecanizado: servicios profesionales
+Fabricante de metales: construccion e inmobiliaria
+Fabricante de muebles: belleza
+Fabricante de piensos: servicios profesionales
+Fabricante de pintura: belleza
+Fabricante de puertas: belleza
+Fabricante de remolques: servicios profesionales
 Fabricante de ropa: textil y moda
-Fabricante de souvenirs: suministros y materiales
+Fabricante de souvenirs: servicios profesionales
 Farmacia: salud y medicina
-Ferretería: servicios profesionales
+Ferretería: comercio y ventas
 Fisioterapeuta: salud y medicina
-Florista: comercio y ventas
-Fontanero: servicios profesionales
-Fotógrafo: arte y cultura
-Fotógrafo aéreo: logistica y transporte
-Fotógrafo de bodas: hosteleria y turismo
-Fruterias: desconocido
-Funeraria: construccion e inmobiliaria
+Florista: desconocido
+Fontanero: construccion e inmobiliaria
+Fotógrafo: servicios profesionales
+Fotógrafo aéreo: servicios profesionales
+Fotógrafo de bodas: servicios profesionales
+Fruterias: alimentacion
+Funeraria: servicios profesionales
 Fábrica textil: industria y manufactura
-GAFAS DE SOL: ESTABLECIMIENTOS: textil y moda
+GAFAS DE SOL: ESTABLECIMIENTOS: servicios profesionales
 GALERIAS DE ARTE: arte y cultura
 GANADERIA: ALIMENTOS: agricultura
 GANADERIA: CONSULTORIAS: agricultura
-GANADO: COMPRA-VENTA: desconocido
-GANADO: CRIA: agricultura
-GAS BUTANO: energia y medio ambiente
-GAS ENERGETICO: FABRICACION Y DISTRIBUCION: energia y medio ambiente
-GAS: INSTALACIONES: energia y medio ambiente
-GASES INDUSTRIALES: energia y medio ambiente
+GANADO: COMPRA-VENTA: salud y medicina
+GANADO: CRIA: entretenimiento y ocio
+GAS BUTANO: construccion e inmobiliaria
+GAS ENERGETICO: FABRICACION Y DISTRIBUCION: construccion e inmobiliaria
+GAS: INSTALACIONES: construccion e inmobiliaria
+GASES INDUSTRIALES: banca y finanzas
 GASOLEO: SUMINISTROS: suministros y materiales
-GENEROS DE PUNTO: FABRICANTES Y MAYORISTAS: comercio y ventas
+GENEROS DE PUNTO: FABRICANTES Y MAYORISTAS: salud y medicina
 GEOLOGOS: desconocido
-GESTION DE EMPRESA: servicios publicos
-GESTION DE PROMOCIONES INMOBILIARIAS DE COMUNIDADES Y COOPERATIVAS: servicios publicos
-GESTORES ADMINISTRATIVOS: servicios publicos
-GESTORIAS ADMINISTRATIVAS: servicios publicos
+GESTION DE EMPRESA: servicios profesionales
+GESTION DE PROMOCIONES INMOBILIARIAS DE COMUNIDADES Y COOPERATIVAS: construccion e inmobiliaria
+GESTORES ADMINISTRATIVOS: telecomunicaciones
+GESTORIAS ADMINISTRATIVAS: consultoria y asesoria
 GIMNASIOS: deportes y recreacion
-GOLF: CAMPOS Y ENSEÑANZA: deportes y recreacion
-GOLOSINAS: ESTABLECIMIENTOS: desconocido
-GRABADOS: otros
-GRADUADOS SOCIALES: servicios publicos
+GOLF: CAMPOS Y ENSEÑANZA: salud y medicina
+GOLOSINAS: ESTABLECIMIENTOS: salud y medicina
+GRABADOS: alimentacion
+GRADUADOS SOCIALES: consultoria y asesoria
 GRANDES ALMACENES: suministros y materiales
-GRANJAS AGROPECUARIAS: agricultura
+GRANJAS AGROPECUARIAS: servicios publicos
 GRANJAS DE AVES Y CAZA: agricultura
 GRANJAS DE GANADO OVINO: agricultura
 GRANJAS DE GANADO PORCINO: agricultura
 GRANJAS DE GANADO VACUNO: agricultura
-GRIFERIA: hosteleria y turismo
+GRIFERIA: automocion
 GRUAS PARA CONSTRUCCION E INDUSTRIA: VENTA Y ALQUILER: construccion e inmobiliaria
-GRUPOS ELECTROGENOS: servicios publicos
-GUARDAMUEBLES: textil y moda
-GUARDERIAS INFANTILES: educacion y formacion
+GRUPOS ELECTROGENOS: comercio y ventas
+GUARDAMUEBLES: logistica y transporte
+GUARDERIAS INFANTILES: servicios profesionales
 GUARNICIONERIA: desconocido
-GUIAS DE MONTAÑA: suministros y materiales
-GUIAS TURISTICOS: hosteleria y turismo
-GUITARRAS: textil y moda
+GUIAS DE MONTAÑA: servicios profesionales
+GUIAS TURISTICOS: servicios profesionales
+GUITARRAS: alimentacion
 Galería de arte: arte y cultura
-Gestión y promoción musical: recursos humanos
-Gestor: consultoria y asesoria
+Gestión y promoción musical: salud y medicina
+Gestor: servicios publicos
 Gimnasio: deportes y recreacion
 Gimnasio de boxeo Muay Thai: deportes y recreacion
 Granja: agricultura
@@ -846,203 +846,203 @@ Granja de cerdos: agricultura
 Granja escuela: agricultura
 Granja lechera: agricultura
 Granja organica: agricultura
-Guardería: servicios profesionales
+Guardería: educacion y formacion
 Guardería para perros: educacion y formacion
-HABILITADOS DE CLASES PASIVAS: educacion y formacion
-HAMBURGUESERIAS: desconocido
+HABILITADOS DE CLASES PASIVAS: servicios profesionales
+HAMBURGUESERIAS: alimentacion
 HARINAS: FABRICACION: industria y manufactura
 HELADERIAS: hosteleria y turismo
 HERBOLARIOS: alimentacion
-HERRAJES: textil y moda
-HERRAMIENTAS PORTATILES: REPARACION: servicios profesionales
-HERRAMIENTAS: FABRICANTES Y MAYORISTAS: comercio y ventas
-HIDRAULICA: INSTALACIONES: suministros y materiales
+HERRAJES: telecomunicaciones
+HERRAMIENTAS PORTATILES: REPARACION: automocion
+HERRAMIENTAS: FABRICANTES Y MAYORISTAS: salud y medicina
+HIDRAULICA: INSTALACIONES: servicios profesionales
 HIDROTERAPIA: CENTROS: salud y medicina
-HIELO: FABRICAS: industria y manufactura
+HIELO: FABRICAS: alimentacion
 HIERRO: ALMACENES: suministros y materiales
-HIGIENE Y ASEO ARTICULOS: FABRICANTES Y MAYORISTAS: comercio y ventas
-HIGIENE Y ASEO ARTICULOS: MAYORISTAS: comercio y ventas
-HIGIENICO-SANITARIOS: ARTICULOS: desconocido
-HILOS E HILADOS TEXTILES: industria y manufactura
+HIGIENE Y ASEO ARTICULOS: FABRICANTES Y MAYORISTAS: salud y medicina
+HIGIENE Y ASEO ARTICULOS: MAYORISTAS: salud y medicina
+HIGIENICO-SANITARIOS: ARTICULOS: salud y medicina
+HILOS E HILADOS TEXTILES: alimentacion
 HOMEOPATAS: desconocido
 HORMIGON: FABRICACION: industria y manufactura
-HORMIGON: PREFABRICADOS: industria y manufactura
+HORMIGON: PREFABRICADOS: servicios profesionales
 HORTICULTURA: agricultura
 HOSPITALES: salud y medicina
-HOSTALES: hosteleria y turismo
+HOSTALES: desconocido
 HOSTELERIA: ALOJAMIENTOS: hosteleria y turismo
-HOSTELERIA: EQUIPAMIENTOS E INSTALACIONES: informatica y tecnologia
+HOSTELERIA: EQUIPAMIENTOS E INSTALACIONES: hosteleria y turismo
 HOSTELERIA: SUMINISTROS: hosteleria y turismo
 HOTEL BALNEARIO: hosteleria y turismo
-HOTELES: hosteleria y turismo
-HOTELES APARTAMENTO: hosteleria y turismo
-HOTELES CADENAS Y GRUPOS: SERVICIO DE ADMINISTRACION: hosteleria y turismo
-HOTELES RESIDENCIA: hosteleria y turismo
+HOTELES: comercio y ventas
+HOTELES APARTAMENTO: deportes y recreacion
+HOTELES CADENAS Y GRUPOS: SERVICIO DE ADMINISTRACION: servicios publicos
+HOTELES RESIDENCIA: comercio y ventas
 HOTELES RURALES: ALOJAMIENTO RURAL: hosteleria y turismo
 Heladería: hosteleria y turismo
 Herbalista: desconocido
-Herrero: desconocido
-Herrero de herradura: servicios profesionales
-Homeópata: salud y medicina
+Herrero: logistica y transporte
+Herrero de herradura: belleza
+Homeópata: desconocido
 Hostal: hosteleria y turismo
 Hotel: hosteleria y turismo
 Hotel de bienestar: hosteleria y turismo
 Hotel de estancia prolongada: hosteleria y turismo
-Huerta: agricultura
-IDIOMAS: ENSEÑANZA: educacion y formacion
+Huerta: automocion
+IDIOMAS: ENSEÑANZA: salud y medicina
 ILUMINACION APARATOS, EQUIPOS Y MATERIALES: ESTABLECIMIENTOS: suministros y materiales
-ILUMINACION ESPECTACULAR: textil y moda
+ILUMINACION ESPECTACULAR: informatica y tecnologia
 IMAGEN Y COMUNICACION: ASESORIA: medios de comunicacion
-IMPERMEABILIZACIONES: servicios profesionales
-IMPORTACION EXPORTACION: industria y manufactura
-IMPRENTAS: construccion e inmobiliaria
-IMPRESION 3D (FABRICACION ADITIVA): SERVICIOS: informatica y tecnologia
+IMPERMEABILIZACIONES: consultoria y asesoria
+IMPORTACION EXPORTACION: servicios profesionales
+IMPRENTAS: informatica y tecnologia
+IMPRESION 3D (FABRICACION ADITIVA): SERVICIOS: industria y manufactura
 IMPRESION DIGITAL: SERVICIO: informatica y tecnologia
-INFOGRAFIA: medios de comunicacion
-INFORMATICA EQUIPOS: REPARACION: servicios profesionales
+INFOGRAFIA: desconocido
+INFORMATICA EQUIPOS: REPARACION: informatica y tecnologia
 INFORMATICA Y OFIMATICA: ESTABLECIMIENTOS: informatica y tecnologia
-INFORMATICA: CENTROS DE FORMACION: educacion y formacion
-INFORMATICA: CONSULTORIAS: consultoria y asesoria
-INFORMATICA: DISEÑO Y PROGRAMACION A MEDIDA: SOFTWARE: textil y moda
-INFORMATICA: EQUIPOS Y MATERIALES: suministros y materiales
-INFORMATICA: INSTALACION Y MANTENIMIENTO: servicios profesionales
+INFORMATICA: CENTROS DE FORMACION: informatica y tecnologia
+INFORMATICA: CONSULTORIAS: informatica y tecnologia
+INFORMATICA: DISEÑO Y PROGRAMACION A MEDIDA: SOFTWARE: informatica y tecnologia
+INFORMATICA: EQUIPOS Y MATERIALES: informatica y tecnologia
+INFORMATICA: INSTALACION Y MANTENIMIENTO: informatica y tecnologia
 INFORMATICA: SERVICIO INTEGRAL: informatica y tecnologia
 INFORMES COMERCIALES: comercio y ventas
-INGENIERIA ACUSTICA: informatica y tecnologia
-INGENIERIA AERONAUTICA: industria y manufactura
+INGENIERIA ACUSTICA: educacion y formacion
+INGENIERIA AERONAUTICA: servicios publicos
 INGENIERIA AGRICOLA Y FORESTAL: agricultura
-INGENIERIA CIVIL Y OBRAS PUBLICAS: construccion e inmobiliaria
+INGENIERIA CIVIL Y OBRAS PUBLICAS: salud y medicina
 INGENIERIA INDUSTRIAL: industria y manufactura
 INGENIERIA INFORMATICA: informatica y tecnologia
 INGENIERIA: CONSULTORIAS: consultoria y asesoria
-INGENIERIA: PROYECTOS: informatica y tecnologia
-INGENIEROS AGRONOMOS: servicios publicos
-INGENIEROS DE TELECOMUNICACION: suministros y materiales
+INGENIERIA: PROYECTOS: salud y medicina
+INGENIEROS AGRONOMOS: telecomunicaciones
+INGENIEROS DE TELECOMUNICACION: servicios profesionales
 INGENIEROS INDUSTRIALES: industria y manufactura
-INGENIEROS TECNICOS AGRICOLAS: agricultura
-INGENIEROS TECNICOS INDUSTRIALES: industria y manufactura
-INGENIEROS TECNICOS TOPOGRAFOS: informatica y tecnologia
-INMOBILIARIAS: banca y finanzas
-INMOBILIARIAS: PROMOCIONES: consultoria y asesoria
-INMUEBLES: GESTION DE ALQUILERES: suministros y materiales
-INSPECCION TECNICA DE EDIFICIOS: construccion e inmobiliaria
-INSPECCION TECNICA DE EMBARCACIONES DE RECREO: suministros y materiales
-INSPECCION TECNICA DE VEHICULOS: automocion
+INGENIEROS TECNICOS AGRICOLAS: servicios profesionales
+INGENIEROS TECNICOS INDUSTRIALES: telecomunicaciones
+INGENIEROS TECNICOS TOPOGRAFOS: telecomunicaciones
+INMOBILIARIAS: telecomunicaciones
+INMOBILIARIAS: PROMOCIONES: construccion e inmobiliaria
+INMUEBLES: GESTION DE ALQUILERES: informatica y tecnologia
+INSPECCION TECNICA DE EDIFICIOS: informatica y tecnologia
+INSPECCION TECNICA DE EMBARCACIONES DE RECREO: servicios profesionales
+INSPECCION TECNICA DE VEHICULOS: informatica y tecnologia
 INSTALACIONES COMERCIALES: comercio y ventas
 INSTITUTOS DE BELLEZA: educacion y formacion
-INSTRUMENTOS MUSICALES: REPARACION Y ACCESORIOS: servicios profesionales
-INSTRUMENTOS MUSICALES: VENTA Y ALQUILER: suministros y materiales
+INSTRUMENTOS MUSICALES: REPARACION Y ACCESORIOS: automocion
+INSTRUMENTOS MUSICALES: VENTA Y ALQUILER: automocion
 INTERMEDIARIOS DE COMERCIO: comercio y ventas
 INTERNET: ALOJAMIENTO DE WEB: informatica y tecnologia
 INTERNET: APUESTAS Y JUEGOS DE AZAR ON LINE: informatica y tecnologia
 INTERNET: SERVICIOS: informatica y tecnologia
-INTERPRETACION: SERVICIOS: consultoria y asesoria
-INTERPRETES: arte y cultura
-INVERNADEROS: agricultura
+INTERPRETACION: SERVICIOS: salud y medicina
+INTERPRETES: desconocido
+INVERNADEROS: desconocido
 INVERSIONES: banca y finanzas
-INVESTIGACION CIENTIFICA Y TECNICA: recursos humanos
+INVESTIGACION CIENTIFICA Y TECNICA: belleza
 Importador: banca y finanzas
-Imprenta: construccion e inmobiliaria
-Imprenta comercial: comercio y ventas
-Impresora de pantalla: informatica y tecnologia
+Imprenta: informatica y tecnologia
+Imprenta comercial: informatica y tecnologia
+Impresora de pantalla: servicios profesionales
 Impresora digital: informatica y tecnologia
-Ingeniero: industria y manufactura
+Ingeniero: banca y finanzas
 Ingeniero Marítimo: logistica y transporte
-Ingeniero agrónomo: industria y manufactura
-Ingeniero eléctrico: energia y medio ambiente
-Ingeniero estructural: construccion e inmobiliaria
+Ingeniero agrónomo: banca y finanzas
+Ingeniero eléctrico: banca y finanzas
+Ingeniero estructural: banca y finanzas
 Ingeniero industrial: industria y manufactura
 Inspeccion de vehiculo: automocion
-Instalación de almacenamiento: suministros y materiales
-Instalación de auto-almacenamiento: suministros y materiales
-Instalador de gas: energia y medio ambiente
+Instalación de almacenamiento: servicios profesionales
+Instalación de auto-almacenamiento: servicios profesionales
+Instalador de gas: construccion e inmobiliaria
 Institución educativa privada: educacion y formacion
 Institutos De Belleza: educacion y formacion
-Instructor de buceo: deportes y recreacion
-Investigación y desarrollo de productos: suministros y materiales
-Investigador privado: consultoria y asesoria
-JAMONES: alimentacion
-JARDINERIA ARTICULOS Y SERVICIOS: CENTROS (GARDEN CENTER): suministros y materiales
-JARDINERIA: EMPRESAS DE SERVICIOS: servicios profesionales
-JARDINERIA: MATERIALES Y ACCESORIOS: servicios profesionales
+Instructor de buceo: servicios profesionales
+Investigación y desarrollo de productos: salud y medicina
+Investigador privado: entretenimiento y ocio
+JAMONES: desconocido
+JARDINERIA ARTICULOS Y SERVICIOS: CENTROS (GARDEN CENTER): belleza
+JARDINERIA: EMPRESAS DE SERVICIOS: belleza
+JARDINERIA: MATERIALES Y ACCESORIOS: belleza
 JARDINES: DISEÑO: textil y moda
 JOYERIA Y RELOJERIA ARTICULOS: MAYORISTAS: comercio y ventas
-JOYERIA: ESTABLECIMIENTOS: textil y moda
+JOYERIA: ESTABLECIMIENTOS: salud y medicina
 JOYERIA: FABRICACION: industria y manufactura
-JOYERIA: MAYORISTAS: comercio y ventas
-JOYEROS: arte y cultura
-JUEGOS DE AZAR Y APUESTAS: otros
-JUEGOS DE ESCAPE EN VIVO: CENTROS: suministros y materiales
-JUEGOS DE MESA: ESTABLECIMIENTOS: desconocido
+JOYERIA: MAYORISTAS: salud y medicina
+JOYEROS: logistica y transporte
+JUEGOS DE AZAR Y APUESTAS: belleza
+JUEGOS DE ESCAPE EN VIVO: CENTROS: servicios profesionales
+JUEGOS DE MESA: ESTABLECIMIENTOS: servicios profesionales
 JUEGOS DE MESA: FABRICANTES Y MINORISTAS: comercio y ventas
-JUEGOS ELECTRONICOS Y VIDEOJUEGOS: ESTABLECIMIENTOS: informatica y tecnologia
-JUEGOS INFANTILES: CENTROS: deportes y recreacion
-JUGUETERIAS: textil y moda
+JUEGOS ELECTRONICOS Y VIDEOJUEGOS: ESTABLECIMIENTOS: salud y medicina
+JUEGOS INFANTILES: CENTROS: salud y medicina
+JUGUETERIAS: desconocido
 Jamonería: desconocido
-Jardinero: servicios profesionales
-Jardín: entretenimiento y ocio
-Joyero: textil y moda
-Joyería: textil y moda
-KART: PISTAS: automocion
+Jardinero: desconocido
+Jardín: automocion
+Joyero: desconocido
+Joyería: industria y manufactura
+KART: PISTAS: entretenimiento y ocio
 LABORATORIOS DE ANALISIS CLINICOS: salud y medicina
 LABORATORIOS DE ENSAYO DE MATERIALES: salud y medicina
 LABORATORIOS DENTALES: salud y medicina
 LABORATORIOS FARMACEUTICOS: salud y medicina
 LABORATORIOS QUIMICOS: salud y medicina
 LABORATORIOS VETERINARIOS: salud y medicina
-LABORES: ESTABLECIMIENTOS: recursos humanos
-LAMINADOS: industria y manufactura
-LAMPARAS DECORATIVAS: ESTABLECIMIENTOS: textil y moda
-LAMPISTERIAS (INSTALACIONES DE GAS ELECTRICIDAD Y FONTANERIA): energia y medio ambiente
-LANAS PARA LABORES: ESTABLECIMIENTOS: servicios profesionales
-LANAS: MAYORISTAS: comercio y ventas
-LAPIDAS TUMBAS Y PANTEONES: FABRICACION: textil y moda
+LABORES: ESTABLECIMIENTOS: salud y medicina
+LAMINADOS: otros
+LAMPARAS DECORATIVAS: ESTABLECIMIENTOS: salud y medicina
+LAMPISTERIAS (INSTALACIONES DE GAS ELECTRICIDAD Y FONTANERIA): construccion e inmobiliaria
+LANAS PARA LABORES: ESTABLECIMIENTOS: salud y medicina
+LANAS: MAYORISTAS: salud y medicina
+LAPIDAS TUMBAS Y PANTEONES: FABRICACION: industria y manufactura
 LASER INDUSTRIAL: industria y manufactura
 LASER-GAMES: desconocido
 LAVADO DE VEHICULO: EMPRESAS: automocion
-LAVADO Y ENGRASE DE VEHICULOS: automocion
-LAVANDERIAS DOMESTICAS: alimentacion
-LAVANDERIAS Y TINTORERIAS INDUSTRIALES: industria y manufactura
-LECHE: DISTRIBUCION: industria y manufactura
+LAVADO Y ENGRASE DE VEHICULOS: construccion e inmobiliaria
+LAVANDERIAS DOMESTICAS: desconocido
+LAVANDERIAS Y TINTORERIAS INDUSTRIALES: salud y medicina
+LECHE: DISTRIBUCION: salud y medicina
 LECHE: PRODUCCION: industria y manufactura
-LENCERIA Y CORSETERIA: textil y moda
-LEÑA PARA CALEFACCION: servicios profesionales
-LIBRERIAS: textil y moda
-LIBRERIAS ESPECIALIZADAS EN COMICS: arte y cultura
-LIBRERIAS ESPECIALIZADAS EN LITERATURA INFANTIL Y JUVENIL: arte y cultura
-LIBROS: COMPRA-VENTA: desconocido
-LICORES Y AGUARDIENTES: DISTRIBUCION: suministros y materiales
+LENCERIA Y CORSETERIA: automocion
+LEÑA PARA CALEFACCION: alimentacion
+LIBRERIAS: comercio y ventas
+LIBRERIAS ESPECIALIZADAS EN COMICS: comercio y ventas
+LIBRERIAS ESPECIALIZADAS EN LITERATURA INFANTIL Y JUVENIL: comercio y ventas
+LIBROS: COMPRA-VENTA: salud y medicina
+LICORES Y AGUARDIENTES: DISTRIBUCION: salud y medicina
 LIMPIEZA ARTICULOS: ESTABLECIMIENTOS: servicios profesionales
 LIMPIEZA ARTICULOS: FABRICANTES Y MAYORISTAS: servicios profesionales
 LIMPIEZA DE MOQUETAS Y TAPICERIAS: servicios profesionales
 LIMPIEZA INDUSTRIAL: EMPRESAS: servicios profesionales
 LIMPIEZA: EMPRESAS: servicios profesionales
 LIMPIEZAS TECNICAS: servicios profesionales
-LISTAS DE BODA: servicios profesionales
-LLAVES: automocion
-LOCALES COMERCIALES: VENTA Y ALQUILER: comercio y ventas
+LISTAS DE BODA: belleza
+LLAVES: alimentacion
+LOCALES COMERCIALES: VENTA Y ALQUILER: salud y medicina
 LOGOPEDAS: salud y medicina
-LUBRICANTES: FABRICANTES Y MAYORISTAS: comercio y ventas
-LUDOTECAS: educacion y formacion
+LUBRICANTES: FABRICANTES Y MAYORISTAS: salud y medicina
+LUDOTECAS: desconocido
 La escuela de Teatro: arte y cultura
 Laboratorio de quimica: salud y medicina
 Laboratorio dental: salud y medicina
 Laboratorio médico: salud y medicina
 Lavado de coches: automocion
-Lavandería: servicios profesionales
-Librería: arte y cultura
-Limpiadores: alimentacion
-Locutorio telefónico: consultoria y asesoria
-Lugar de cóctel de oxígeno: suministros y materiales
+Lavandería: desconocido
+Librería: comercio y ventas
+Limpiadores: desconocido
+Locutorio telefónico: desconocido
+Lugar de cóctel de oxígeno: servicios profesionales
 Lugar del evento: entretenimiento y ocio
-MADERA: ALMACENES: suministros y materiales
+MADERA: ALMACENES: automocion
 MADERA: COMPRA-VENTA: industria y manufactura
-MADERA: MAYORISTAS: comercio y ventas
-MALETAS: ESTABLECIMIENTOS: suministros y materiales
-MAMPARAS DE BAÑO: FABRICACION E INSTALACION: suministros y materiales
-MANICURA: textil y moda
+MADERA: MAYORISTAS: salud y medicina
+MALETAS: ESTABLECIMIENTOS: salud y medicina
+MAMPARAS DE BAÑO: FABRICACION E INSTALACION: industria y manufactura
+MANICURA: belleza
 MANTENIMIENTO INDUSTRIAL: servicios profesionales
-MANUTENCION Y ALMACENAMIENTO: EQUIPOS: suministros y materiales
+MANUTENCION Y ALMACENAMIENTO: EQUIPOS: salud y medicina
 MAQUINARIA AGRICOLA: REPARACION: industria y manufactura
 MAQUINARIA DE AUTOMOCION: industria y manufactura
 MAQUINARIA ELECTRICA: industria y manufactura
@@ -1066,315 +1066,315 @@ MAQUINARIA PARA SONDEOS Y EXCAVACIONES: industria y manufactura
 MAQUINARIA PARA TRATAMIENTOS DE AGUA: industria y manufactura
 MAQUINARIA Y BIENES DE EQUIPO: DISTRIBUCION: industria y manufactura
 MAQUINARIA: REPARACION Y MANTENIMIENTO: industria y manufactura
-MAQUINAS DE COSER: industria y manufactura
-MAQUINAS ELECTRONICAS: informatica y tecnologia
-MAQUINAS EXPENDEDORAS AUTOMATICAS: suministros y materiales
-MAQUINAS EXPENDEDORAS AUTOMATICAS: MAYORISTAS: comercio y ventas
-MAQUINAS HERRAMIENTA: DISTRIBUCION: informatica y tecnologia
-MAQUINAS RECREATIVAS: DISTRIBUCION: suministros y materiales
+MAQUINAS DE COSER: belleza
+MAQUINAS ELECTRONICAS: logistica y transporte
+MAQUINAS EXPENDEDORAS AUTOMATICAS: logistica y transporte
+MAQUINAS EXPENDEDORAS AUTOMATICAS: MAYORISTAS: salud y medicina
+MAQUINAS HERRAMIENTA: DISTRIBUCION: salud y medicina
+MAQUINAS RECREATIVAS: DISTRIBUCION: belleza
 MAQUINAS RECREATIVAS: EXPLOTACION Y MANTENIMIENTO: servicios profesionales
-MARCOS Y ENMARCACIONES: ESTABLECIMIENTOS: suministros y materiales
-MARFIL, CAREY Y CORAL: otros
-MARISCOS: MAYORISTAS: comercio y ventas
-MARMOLES Y GRANITOS: alimentacion
+MARCOS Y ENMARCACIONES: ESTABLECIMIENTOS: salud y medicina
+MARFIL, CAREY Y CORAL: belleza
+MARISCOS: MAYORISTAS: salud y medicina
+MARMOLES Y GRANITOS: salud y medicina
 MARMOLISTA: TRABAJOS: recursos humanos
-MARROQUINERIA: textil y moda
-MARROQUINERIA ARTICULOS: ESTABLECIMIENTOS: textil y moda
-MARROQUINERIA ARTICULOS: FABRICACION: textil y moda
-MASAJES NO TERAPEUTICOS: otros
+MARROQUINERIA: desconocido
+MARROQUINERIA ARTICULOS: ESTABLECIMIENTOS: salud y medicina
+MARROQUINERIA ARTICULOS: FABRICACION: industria y manufactura
+MASAJES NO TERAPEUTICOS: alimentacion
 MASAJISTAS: desconocido
 MASIAS: ALOJAMIENTO RURAL: hosteleria y turismo
 MATERIALES CONTRA INCENDIO: VENTA E INSTALACION: suministros y materiales
-MATERIALES DE CONSTRUCCION Y MADERA: MAYORISTAS: construccion e inmobiliaria
-MATERIALES DE CONSTRUCCION: ALMACENES: construccion e inmobiliaria
-MATERIALES DE LABORATORIO: salud y medicina
+MATERIALES DE CONSTRUCCION Y MADERA: MAYORISTAS: suministros y materiales
+MATERIALES DE CONSTRUCCION: ALMACENES: suministros y materiales
+MATERIALES DE LABORATORIO: suministros y materiales
 MATERIALES ELECTRICOS: FABRICACION: suministros y materiales
-MATERIALES ELECTRICOS: FABRICANTES Y MAYORISTAS: comercio y ventas
-MECANICOS DE VEHICULOS: automocion
-MECANIZADO DE PIEZAS: suministros y materiales
+MATERIALES ELECTRICOS: FABRICANTES Y MAYORISTAS: suministros y materiales
+MECANICOS DE VEHICULOS: servicios profesionales
+MECANIZADO DE PIEZAS: servicios profesionales
 MEDICINA APARATOS Y EQUIPOS: MAYORISTAS: salud y medicina
 MEDICINA AYURVEDICA: CENTROS: salud y medicina
 MEDICOS ACUPUNTURA: salud y medicina
-MEDICOS ESPECIALISTAS: salud y medicina
-MEDICOS ESPECIALISTAS ALERGOLOGIA: salud y medicina
+MEDICOS ESPECIALISTAS: telecomunicaciones
+MEDICOS ESPECIALISTAS ALERGOLOGIA: telecomunicaciones
 MEDICOS ESPECIALISTAS ANGIOLOGIA Y CIRUGIA VASCULAR: salud y medicina
 MEDICOS ESPECIALISTAS CIRUGIA GENERAL Y DEL APARATO DIGESTIVO: salud y medicina
 MEDICOS ESPECIALISTAS CIRUGIA ORTOPEDICA Y TRAUMATOLOGIA: salud y medicina
 MEDICOS ESPECIALISTAS CIRUGIA PLASTICA ESTETICA Y REPARADORA: salud y medicina
 MEDICOS ESPECIALISTAS DERMATOLOGIA MEDICO-QUIRURGICA Y VENEREOLOGIA: salud y medicina
-MEDICOS ESPECIALISTAS DERMATOVENEREOLOGIA: salud y medicina
+MEDICOS ESPECIALISTAS DERMATOVENEREOLOGIA: telecomunicaciones
 MEDICOS ESPECIALISTAS HIDROLOGIA MEDICA: salud y medicina
 MEDICOS ESPECIALISTAS MEDICINA INTERNA: salud y medicina
 MEDICOS ESPECIALISTAS MEDICINA LEGAL Y FORENSE: salud y medicina
-MEDICOS ESPECIALISTAS NEUROLOGIA: salud y medicina
+MEDICOS ESPECIALISTAS NEUROLOGIA: telecomunicaciones
 MEDICOS ESPECIALISTAS OBSTETRICIA Y GINECOLOGIA: salud y medicina
-MEDICOS ESPECIALISTAS OFTALMOLOGIA: salud y medicina
-MEDICOS ESPECIALISTAS PEDIATRIA Y SUS AREAS ESPECIFICAS: servicios publicos
-MEDICOS ESPECIALISTAS PSIQUIATRIA: salud y medicina
-MEDICOS ESPECIALISTAS UROLOGIA: salud y medicina
+MEDICOS ESPECIALISTAS OFTALMOLOGIA: telecomunicaciones
+MEDICOS ESPECIALISTAS PEDIATRIA Y SUS AREAS ESPECIFICAS: salud y medicina
+MEDICOS ESPECIALISTAS PSIQUIATRIA: telecomunicaciones
+MEDICOS ESPECIALISTAS UROLOGIA: telecomunicaciones
 MEDICOS MEDICINA GENERAL: salud y medicina
 MEDIO AMBIENTE: CONSULTORIAS: consultoria y asesoria
 MENSAJERIAS: desconocido
-MERCERIAS: ESTABLECIMIENTOS: desconocido
-MERMELADAS: FABRICANTES: suministros y materiales
-METACRILATO ARTICULOS: FABRICANTES Y MAYORISTAS: comercio y ventas
-METALES: ALMACENES: suministros y materiales
-METALES: MANUFACTURAS: industria y manufactura
-METALES: TRATAMIENTOS: suministros y materiales
+MERCERIAS: ESTABLECIMIENTOS: salud y medicina
+MERMELADAS: FABRICANTES: salud y medicina
+METACRILATO ARTICULOS: FABRICANTES Y MAYORISTAS: salud y medicina
+METALES: ALMACENES: construccion e inmobiliaria
+METALES: MANUFACTURAS: construccion e inmobiliaria
+METALES: TRATAMIENTOS: construccion e inmobiliaria
 METALISTERIAS: desconocido
-METALURGIA MAQUINAS Y EQUIPOS: MAYORISTAS: industria y manufactura
-MICROPIGMENTACION (MAQUILLAJE PERMANENTE): SERVICIOS: suministros y materiales
-MIEL Y PRODUCTOS APICOLAS: ESTABLECIMIENTOS: alimentacion
+METALURGIA MAQUINAS Y EQUIPOS: MAYORISTAS: construccion e inmobiliaria
+MICROPIGMENTACION (MAQUILLAJE PERMANENTE): SERVICIOS: belleza
+MIEL Y PRODUCTOS APICOLAS: ESTABLECIMIENTOS: salud y medicina
 MINERALES: mineria y extraccion
 MINORISTAS: comercio y ventas
-MOBILIARIO Y DECORACION: ESTABLECIMIENTOS: servicios profesionales
-MODELISMO: arte y cultura
-MODELISMO: ESTABLECIMIENTOS: recursos humanos
-MOLDES Y MATRICES: alimentacion
+MOBILIARIO Y DECORACION: ESTABLECIMIENTOS: salud y medicina
+MODELISMO: desconocido
+MODELISMO: ESTABLECIMIENTOS: salud y medicina
+MOLDES Y MATRICES: belleza
 MOLINOS: mineria y extraccion
-MOTELES: hosteleria y turismo
-MOTOCICLETAS COMPLEMENTOS Y VEHICULOS SIN CARNE: ESTABLECIMIENTOS: automocion
-MOTOCICLETAS: ALQUILER: desconocido
+MOTELES: desconocido
+MOTOCICLETAS COMPLEMENTOS Y VEHICULOS SIN CARNE: ESTABLECIMIENTOS: textil y moda
+MOTOCICLETAS: ALQUILER: automocion
 MOTOCICLETAS: CONCESIONARIOS Y AGENCIAS: automocion
-MOTOCICLETAS: RECAMBIOS Y ACCESORIOS: suministros y materiales
+MOTOCICLETAS: RECAMBIOS Y ACCESORIOS: textil y moda
 MOTORES ELECTRICOS: automocion
 MOTORES HIDRAULICOS: REPARACION: automocion
 MOTORES: REPARACION: automocion
-MUDANZAS: construccion e inmobiliaria
+MUDANZAS: logistica y transporte
 MUEBLES DE BAÑO: ESTABLECIMIENTOS: servicios profesionales
-MUEBLES DE COCINA Y BAÑO: FABRICANTES Y MAYORISTAS: comercio y ventas
-MUEBLES DE COCINA: ESTABLECIMIENTOS: suministros y materiales
+MUEBLES DE COCINA Y BAÑO: FABRICANTES Y MAYORISTAS: salud y medicina
+MUEBLES DE COCINA: ESTABLECIMIENTOS: logistica y transporte
 MUEBLES DE DISEÑO: ESTABLECIMIENTOS: textil y moda
 MUEBLES DE MADERA: FABRICACION: industria y manufactura
-MUEBLES DE MADERA: FABRICANTES Y MAYORISTAS: comercio y ventas
-MUEBLES DE OFICINA: FABRICACION: suministros y materiales
-MUEBLES DE TERRAZA Y JARDIN: ESTABLECIMIENTOS: servicios profesionales
-MUEBLES, ALFOMBRAS Y APARATOS DE ILUMINACION: MAYORISTAS: comercio y ventas
-MUEBLES, ILUMINACION Y HOGAR: ESTABLECIMIENTOS: servicios profesionales
-MUEBLES: COMPRA-VENTA: textil y moda
-MUEBLES: ESTABLECIMIENTOS: suministros y materiales
-MUEBLES: FABRICACION: textil y moda
-MUEBLES: FABRICANTES Y MAYORISTAS: comercio y ventas
-MUEBLES: IMPORTACION: suministros y materiales
-MUEBLES: RESTAURACION: textil y moda
-MULTIPRECIO ARTICULOS: MAYORISTAS: comercio y ventas
-MULTISERVICIOS: EMPRESAS: suministros y materiales
-MUSICA IMPRESA: EDITORIALES: medios de comunicacion
-MUSICA Y DANZA: ESCUELAS: arte y cultura
+MUEBLES DE MADERA: FABRICANTES Y MAYORISTAS: automocion
+MUEBLES DE OFICINA: FABRICACION: industria y manufactura
+MUEBLES DE TERRAZA Y JARDIN: ESTABLECIMIENTOS: automocion
+MUEBLES, ALFOMBRAS Y APARATOS DE ILUMINACION: MAYORISTAS: salud y medicina
+MUEBLES, ILUMINACION Y HOGAR: ESTABLECIMIENTOS: belleza
+MUEBLES: COMPRA-VENTA: industria y manufactura
+MUEBLES: ESTABLECIMIENTOS: salud y medicina
+MUEBLES: FABRICACION: industria y manufactura
+MUEBLES: FABRICANTES Y MAYORISTAS: salud y medicina
+MUEBLES: IMPORTACION: salud y medicina
+MUEBLES: RESTAURACION: industria y manufactura
+MULTIPRECIO ARTICULOS: MAYORISTAS: salud y medicina
+MULTISERVICIOS: EMPRESAS: salud y medicina
+MUSICA IMPRESA: EDITORIALES: belleza
+MUSICA Y DANZA: ESCUELAS: salud y medicina
 MUSICA: PRODUCCION: industria y manufactura
-MUSICOS: otros
-MUTUALIDADES DE PREVISION SOCIAL: servicios publicos
-Mago: desconocido
-Manicura: textil y moda
+MUSICOS: desconocido
+MUTUALIDADES DE PREVISION SOCIAL: servicios profesionales
+Mago: automocion
+Manicura: belleza
 Mantenimiento de la propiedad: servicios profesionales
-Maquilladora: textil y moda
-Maquilladores: textil y moda
-Marisquería: hosteleria y turismo
+Maquilladora: desconocido
+Maquilladores: belleza
+Marisquería: desconocido
 Masajista: desconocido
-Masajista deportivo: deportes y recreacion
+Masajista deportivo: servicios publicos
 Masajista tailandés: desconocido
-Matadero: suministros y materiales
-Mayorista: comercio y ventas
-Mayorista de electrodomésticos: comercio y ventas
-Mayorista de electrónica: comercio y ventas
-Mayorista de equipos de fitness: comercio y ventas
-Mayorista de frutas: comercio y ventas
-Mayorista de frutas y verduras: comercio y ventas
-Mayorista de productos agrícolas: comercio y ventas
-Mayorista de verduras: comercio y ventas
-Mayorista e importador de vino: comercio y ventas
-Mayorista tendero: comercio y ventas
-Mecánico: automocion
-Medico ocupacional: salud y medicina
+Matadero: desconocido
+Mayorista: industria y manufactura
+Mayorista de electrodomésticos: industria y manufactura
+Mayorista de electrónica: industria y manufactura
+Mayorista de equipos de fitness: industria y manufactura
+Mayorista de frutas: industria y manufactura
+Mayorista de frutas y verduras: industria y manufactura
+Mayorista de productos agrícolas: industria y manufactura
+Mayorista de verduras: industria y manufactura
+Mayorista e importador de vino: industria y manufactura
+Mayorista tendero: industria y manufactura
+Mecánico: servicios profesionales
+Medico ocupacional: quimica y farmaceutica
 Mercado: alimentacion
-Mercería: comercio y ventas
-Metalistería: servicios profesionales
-Modista: medios de comunicacion
-Médico: salud y medicina
-Médico de familia: salud y medicina
-Médico general: salud y medicina
-Músico: arte y cultura
+Mercería: desconocido
+Metalistería: desconocido
+Modista: logistica y transporte
+Médico: quimica y farmaceutica
+Médico de familia: belleza
+Médico general: quimica y farmaceutica
+Músico: desconocido
 NARANJAS: PRODUCCION: industria y manufactura
-NATACION: ESCUELAS: desconocido
-NAUTICA: EMBARCACIONES Y EQUIPAMIENTO: suministros y materiales
-NAUTICA: ESTABLECIMIENTOS: recursos humanos
-NAVES INDUSTRIALES: VENTA Y ALQUILER: industria y manufactura
-NEUMATICOS: VENTA Y REPARACION: servicios profesionales
-NUTRICION DEPORTIVA PRODUCTOS: ESTABLECIMIENTOS: suministros y materiales
-Notario público: servicios publicos
-Nutricionista: salud y medicina
+NATACION: ESCUELAS: servicios profesionales
+NAUTICA: EMBARCACIONES Y EQUIPAMIENTO: salud y medicina
+NAUTICA: ESTABLECIMIENTOS: salud y medicina
+NAVES INDUSTRIALES: VENTA Y ALQUILER: automocion
+NEUMATICOS: VENTA Y REPARACION: automocion
+NUTRICION DEPORTIVA PRODUCTOS: ESTABLECIMIENTOS: salud y medicina
+Notario público: consultoria y asesoria
+Nutricionista: quimica y farmaceutica
 OCIO: CONSULTORIAS: entretenimiento y ocio
 ODONTOLOGIA APARATOS E INSTRUMENTOS: MAYORISTAS: salud y medicina
-ODONTOLOGOS Y ESTOMATOLOGOS: otros
+ODONTOLOGOS Y ESTOMATOLOGOS: salud y medicina
 ODONTOLOGOS Y ESTOMATOLOGOS: ORTODONCIA: salud y medicina
 OFICINA MATERIALES: SUMINISTROS: suministros y materiales
-OFICINAS: VENTA Y ALQUILER: suministros y materiales
+OFICINAS: VENTA Y ALQUILER: automocion
 OPTICA: SUMINISTROS: suministros y materiales
-OPTICAS: servicios profesionales
-OPTICOS OPTOMETRISTAS: otros
+OPTICAS: salud y medicina
+OPTICOS OPTOMETRISTAS: desconocido
 ORFEBRERIA: desconocido
-ORGANIZACION DE FERIAS CONGRESOS Y FESTIVALES: entretenimiento y ocio
-ORO Y PLATA: COMPRA-VENTA: mineria y extraccion
-ORQUESTAS: otros
-ORTOPEDIA, OPTICA Y ARTICULOS MEDICOS: ESTABLECIMIENTOS: suministros y materiales
-ORTOPEDIA: SUMINISTROS: salud y medicina
-OSTEOPATAS: desconocido
-Obstetra-ginecólogo: desconocido
-Oficina de agrimensura: suministros y materiales
-Oficinas de empresa: suministros y materiales
+ORGANIZACION DE FERIAS CONGRESOS Y FESTIVALES: belleza
+ORO Y PLATA: COMPRA-VENTA: salud y medicina
+ORQUESTAS: desconocido
+ORTOPEDIA, OPTICA Y ARTICULOS MEDICOS: ESTABLECIMIENTOS: salud y medicina
+ORTOPEDIA: SUMINISTROS: suministros y materiales
+OSTEOPATAS: salud y medicina
+Obstetra-ginecólogo: salud y medicina
+Oficina de agrimensura: servicios profesionales
+Oficinas de empresa: servicios profesionales
 Oftalmólogo: salud y medicina
-Optometrista: salud y medicina
-Organizador de actividades al aire libre: deportes y recreacion
+Optometrista: desconocido
+Organizador de actividades al aire libre: servicios profesionales
 Organizador de eventos: entretenimiento y ocio
-Organizador de fiestas: hosteleria y turismo
-Organizador profesional: recursos humanos
+Organizador de fiestas: belleza
+Organizador profesional: comercio y ventas
 Osteópata: salud y medicina
-PADEL: PISTAS Y ENSEÑANZA: deportes y recreacion
-PAINTBALL: ARMAS Y COMPLEMENTOS: textil y moda
-PAINTBALL: INSTALACIONES: deportes y recreacion
-PAISAJISMO: EMPRESAS: desconocido
+PADEL: PISTAS Y ENSEÑANZA: salud y medicina
+PAINTBALL: ARMAS Y COMPLEMENTOS: salud y medicina
+PAINTBALL: INSTALACIONES: salud y medicina
+PAISAJISMO: EMPRESAS: salud y medicina
 PAJARERIAS: desconocido
-PALACIOS DE EXPOSICIONES Y CONGRESOS: arte y cultura
-PALETS: FABRICANTES Y MAYORISTAS: comercio y ventas
-PANADERIAS: hosteleria y turismo
+PALACIOS DE EXPOSICIONES Y CONGRESOS: belleza
+PALETS: FABRICANTES Y MAYORISTAS: construccion e inmobiliaria
+PANADERIAS: desconocido
 PANELES SOLARES: FABRICACION: energia y medio ambiente
-PANIFICADORAS: recursos humanos
-PAPELERIA: ESTABLECIMIENTOS: textil y moda
-PAPELERIA: SUMINISTROS: textil y moda
-PARAFARMACIAS: alimentacion
+PANIFICADORAS: desconocido
+PAPELERIA: ESTABLECIMIENTOS: salud y medicina
+PAPELERIA: SUMINISTROS: suministros y materiales
+PARAFARMACIAS: salud y medicina
 PARAGUAS Y BASTONES: FABRICANTES Y MINORISTAS: comercio y ventas
-PARQUES EMPRESARIALES: entretenimiento y ocio
-PARQUES TARIMAS Y SUELOS DE MADERA: INSTALADORES: entretenimiento y ocio
-PARQUES: VENTA E INSTALACION: entretenimiento y ocio
-PASEOS EN BARCO: hosteleria y turismo
-PASTELERIAS Y CONFITERIAS: alimentacion
-PATENTES Y MARCAS: alimentacion
-PATINES Y MONOPATINES: ESTABLECIMIENTOS: automocion
-PAVIMENTOS DE HORMIGON: construccion e inmobiliaria
-PAVIMENTOS INDUSTRIALES: industria y manufactura
-PELETERIAS: desconocido
-PELUQUERIA Y BELLEZA ARTICULOS: FABRICACION: servicios profesionales
-PELUQUERIA: SUMINISTROS: servicios profesionales
-PELUQUERIAS A DOMICILIO: servicios profesionales
-PELUQUERIAS CANINAS: servicios profesionales
-PELUQUERIAS DE CABALLEROS: servicios profesionales
-PELUQUERIAS DE SEÑORAS: servicios profesionales
-PELUQUERIAS UNISEX: servicios profesionales
-PELUQUERIAS Y CENTROS DE ESTETICA: servicios profesionales
+PARQUES EMPRESARIALES: educacion y formacion
+PARQUES TARIMAS Y SUELOS DE MADERA: INSTALADORES: belleza
+PARQUES: VENTA E INSTALACION: salud y medicina
+PASEOS EN BARCO: belleza
+PASTELERIAS Y CONFITERIAS: salud y medicina
+PATENTES Y MARCAS: salud y medicina
+PATINES Y MONOPATINES: ESTABLECIMIENTOS: salud y medicina
+PAVIMENTOS DE HORMIGON: servicios profesionales
+PAVIMENTOS INDUSTRIALES: telecomunicaciones
+PELETERIAS: comercio y ventas
+PELUQUERIA Y BELLEZA ARTICULOS: FABRICACION: belleza
+PELUQUERIA: SUMINISTROS: belleza
+PELUQUERIAS A DOMICILIO: belleza
+PELUQUERIAS CANINAS: belleza
+PELUQUERIAS DE CABALLEROS: belleza
+PELUQUERIAS DE SEÑORAS: belleza
+PELUQUERIAS UNISEX: belleza
+PELUQUERIAS Y CENTROS DE ESTETICA: belleza
 PENSIONES: hosteleria y turismo
-PEQUEÑAS MUDANZAS: servicios profesionales
-PERFUMERIA: ESTABLECIMIENTOS: desconocido
+PEQUEÑAS MUDANZAS: logistica y transporte
+PERFUMERIA: ESTABLECIMIENTOS: salud y medicina
 PERFUMERIA: SUMINISTROS: suministros y materiales
-PERGOLAS VERANDAS Y CENADORES: servicios profesionales
-PERIFERICOS DE ORDENADORES: REPARACION: informatica y tecnologia
-PERITOS TASADORES: servicios publicos
-PERROS: ADIESTRAMIENTO: desconocido
-PERSIANAS: FABRICACION,  INSTALACION Y REPARACION: servicios profesionales
+PERGOLAS VERANDAS Y CENADORES: salud y medicina
+PERIFERICOS DE ORDENADORES: REPARACION: automocion
+PERITOS TASADORES: consultoria y asesoria
+PERROS: ADIESTRAMIENTO: salud y medicina
+PERSIANAS: FABRICACION,  INSTALACION Y REPARACION: industria y manufactura
 PERSONAS CON DISCAPACIDAD: CENTROS ESPECIALES DE EMPLEO: recursos humanos
-PESCA ARTICULOS: ESTABLECIMIENTOS: desconocido
-PESCA ARTICULOS: MAYORISTAS: comercio y ventas
+PESCA ARTICULOS: ESTABLECIMIENTOS: salud y medicina
+PESCA ARTICULOS: MAYORISTAS: salud y medicina
 PESCADERIAS: desconocido
-PESCADOS: MAYORISTAS: comercio y ventas
+PESCADOS: MAYORISTAS: salud y medicina
 PETROLEO Y DERIVADOS: energia y medio ambiente
-PICADEROS: alimentacion
-PIEDRA NATURAL Y ARTIFICIAL: servicios profesionales
-PIELES Y CURTIDOS: alimentacion
-PIENSOS: FABRICACION: desconocido
-PIENSOS: FABRICANTES Y MAYORISTAS: comercio y ventas
-PILATES METODO: CENTROS: recursos humanos
-PINTORES: arte y cultura
-PINTORES: ARTISTAS PLASTICOS: arte y cultura
-PINTURAS Y BARNICES: ESTABLECIMIENTOS: servicios profesionales
-PINTURAS Y BARNICES: FABRICANTES Y MAYORISTAS: comercio y ventas
+PICADEROS: desconocido
+PIEDRA NATURAL Y ARTIFICIAL: belleza
+PIELES Y CURTIDOS: salud y medicina
+PIENSOS: FABRICACION: industria y manufactura
+PIENSOS: FABRICANTES Y MAYORISTAS: salud y medicina
+PILATES METODO: CENTROS: quimica y farmaceutica
+PINTORES: construccion e inmobiliaria
+PINTORES: ARTISTAS PLASTICOS: salud y medicina
+PINTURAS Y BARNICES: ESTABLECIMIENTOS: salud y medicina
+PINTURAS Y BARNICES: FABRICANTES Y MAYORISTAS: salud y medicina
 PINTURAS: FABRICACION: industria y manufactura
-PINTURAS: MAYORISTAS: comercio y ventas
+PINTURAS: MAYORISTAS: salud y medicina
 PISCIFACTORIAS: desconocido
 PISCINAS: CONSTRUCCION Y MANTENIMIENTO: construccion e inmobiliaria
-PIZARRAS: MAYORISTAS: comercio y ventas
+PIZARRAS: MAYORISTAS: salud y medicina
 PIZZERIAS: alimentacion
 PIZZERIAS A DOMICILIO: alimentacion
-PLANIFICACION FAMILIAR: recursos humanos
-PLANTAS Y HIERBAS AROMATICAS: MAYORISTAS: comercio y ventas
-PLASTICO ARTICULOS: ESTABLECIMIENTOS: suministros y materiales
+PLANIFICACION FAMILIAR: consultoria y asesoria
+PLANTAS Y HIERBAS AROMATICAS: MAYORISTAS: salud y medicina
+PLASTICO ARTICULOS: ESTABLECIMIENTOS: informatica y tecnologia
 PLASTICO ARTICULOS: FABRICACION: industria y manufactura
 PLASTICO ARTICULOS: FABRICANTES Y MINORISTAS: comercio y ventas
 PLASTICO PARA LA INDUSTRIA: industria y manufactura
-PLASTICO: MOLDEO POR INYECCION: textil y moda
-POCERIA: deportes y recreacion
-PODOLOGOS: desconocido
-POLLERIAS Y HUEVERIAS: otros
-POLLOS ASADOS: alimentacion
+PLASTICO: MOLDEO POR INYECCION: servicios profesionales
+POCERIA: desconocido
+PODOLOGOS: salud y medicina
+POLLERIAS Y HUEVERIAS: salud y medicina
+POLLOS ASADOS: otros
 POZOS: CONSTRUCCION: construccion e inmobiliaria
-PRACTICANTES: recursos humanos
-PREFABRICADOS DE YESO: industria y manufactura
-PRENSA: IMPRESION: desconocido
-PRENSAS INDUSTRIALES: industria y manufactura
+PRACTICANTES: desconocido
+PREFABRICADOS DE YESO: servicios profesionales
+PRENSA: IMPRESION: salud y medicina
+PRENSAS INDUSTRIALES: telecomunicaciones
 PREVENCION DE RIESGOS LABORALES: CONSULTORIAS: consultoria y asesoria
-PROCURADORES: servicios publicos
+PROCURADORES: telecomunicaciones
 PRODUCCION AGRICOLA: industria y manufactura
-PRODUCTOS FARMACEUTICOS: MAYORISTAS: comercio y ventas
+PRODUCTOS FARMACEUTICOS: MAYORISTAS: salud y medicina
 PRODUCTOS LACTEOS: FABRICACION: industria y manufactura
-PRODUCTOS QUIMICOS: alimentacion
+PRODUCTOS QUIMICOS: telecomunicaciones
 PRODUCTOS QUIMICOS: FABRICACION: industria y manufactura
 PROFESORES PARTICULARES: educacion y formacion
-PROMOTORAS DE CONCIERTOS MUSICALES: construccion e inmobiliaria
+PROMOTORAS DE CONCIERTOS MUSICALES: servicios profesionales
 PROTECCION CONTRA INCENDIOS: INSTALACIONES Y MANTENIMIENTO: servicios profesionales
 PROTECCION EN EL TRABAJO: MATERIALES: recursos humanos
-PROTESICOS DENTALES: alimentacion
-PSICOANALISTAS: otros
-PSICOLOGIA Y PSICOTERAPIA: ESCUELAS PRIVADAS: recursos humanos
-PSICOLOGOS: salud y medicina
+PROTESICOS DENTALES: servicios profesionales
+PSICOANALISTAS: salud y medicina
+PSICOLOGIA Y PSICOTERAPIA: ESCUELAS PRIVADAS: salud y medicina
+PSICOLOGOS: desconocido
 PSICOLOGOS ESPECIALISTAS PSICOLOGIA CLINICA: salud y medicina
-PSICOLOGOS ESPECIALISTAS PSICOLOGIA ESCOLAR O PSICOPEDAGOGIA: recursos humanos
-PSICOLOGOS ESPECIALISTAS PSICOLOGIA INFANTIL Y JUVENIL: educacion y formacion
-PSICOLOGOS ESPECIALISTAS PSICOLOGIA JURIDICA: consultoria y asesoria
+PSICOLOGOS ESPECIALISTAS PSICOLOGIA ESCOLAR O PSICOPEDAGOGIA: salud y medicina
+PSICOLOGOS ESPECIALISTAS PSICOLOGIA INFANTIL Y JUVENIL: salud y medicina
+PSICOLOGOS ESPECIALISTAS PSICOLOGIA JURIDICA: salud y medicina
 PSICOTERAPEUTAS: salud y medicina
 PUBLICIDAD Y COMUNICACION: PRODUCCION: medios de comunicacion
-PUBS: entretenimiento y ocio
-PUERTAS AUTOMATICAS: alimentacion
-PUERTAS DE MADERA: servicios profesionales
-PUERTAS Y VENTANAS: ESTABLECIMIENTOS: alimentacion
-PUERTAS: FABRICACION E INSTALACION: suministros y materiales
+PUBS: desconocido
+PUERTAS AUTOMATICAS: automocion
+PUERTAS DE MADERA: hosteleria y turismo
+PUERTAS Y VENTANAS: ESTABLECIMIENTOS: automocion
+PUERTAS: FABRICACION E INSTALACION: industria y manufactura
 PULIMENTACION: desconocido
 PVC COMPUESTOS Y GRANZAS: FABRICACION: industria y manufactura
-Panadería: hosteleria y turismo
-Panadería al por mayor: agricultura
-Papelería: servicios profesionales
+Panadería: industria y manufactura
+Panadería al por mayor: servicios profesionales
+Papelería: desconocido
 Parrilla: automocion
-Pastelería: textil y moda
-Patio de recreo: hosteleria y turismo
-Patio interior: servicios profesionales
-Patólogo del habla: consultoria y asesoria
+Pastelería: desconocido
+Patio de recreo: belleza
+Patio interior: belleza
+Patólogo del habla: arte y cultura
 Pediatra: salud y medicina
-Peluquero: servicios profesionales
-Peluquero a domicilio: servicios profesionales
-Peluquero de mascotas: servicios profesionales
-Peluquería: servicios profesionales
+Peluquero: belleza
+Peluquero a domicilio: belleza
+Peluquero de mascotas: belleza
+Peluquería: belleza
 Pequeño restaurante: hosteleria y turismo
 Periodoncista de implantes dentales: servicios profesionales
-Perito de siniestros: servicios publicos
+Perito de siniestros: servicios profesionales
 Persona de mantenimiento (manitas): servicios profesionales
 Pescadería: desconocido
-Pintor: arte y cultura
-Pintura: arte y cultura
+Pintor: logistica y transporte
+Pintura: automocion
 Pista de carreras de coches: automocion
-Pizza a domicilio: hosteleria y turismo
-Pizza para llevar: servicios profesionales
+Pizza a domicilio: automocion
+Pizza para llevar: alimentacion
 Planeador financiero: banca y finanzas
-Planificador de la boda: construccion e inmobiliaria
-Planta de tratamiento de agua: suministros y materiales
-Podólogo: salud y medicina
+Planificador de la boda: servicios profesionales
+Planta de tratamiento de agua: servicios profesionales
+Podólogo: desconocido
 Practicante de medicina alternativa: salud y medicina
 Practicante de medicina holística: salud y medicina
-Practicante de naturopatía: industria y manufactura
+Practicante de naturopatía: servicios profesionales
 Preescolar: desconocido
-Preparacion de impuestos: servicios publicos
-Prestamista hipotecario: banca y finanzas
-Procesador de fotografías para pasaporte: suministros y materiales
+Preparacion de impuestos: servicios profesionales
+Prestamista hipotecario: servicios publicos
+Procesador de fotografías para pasaporte: servicios profesionales
 Producción de agricultura: industria y manufactura
-Productor de alimentos: suministros y materiales
-Productor de ganado: agricultura
-Programa de bienestar: recursos humanos
+Productor de alimentos: servicios profesionales
+Productor de ganado: servicios profesionales
+Programa de bienestar: belleza
 Promotora inmobiliaria: construccion e inmobiliaria
 Proveedor de accesorios para barcos: suministros y materiales
 Proveedor de aluminio: suministros y materiales
@@ -1419,68 +1419,68 @@ Proveedor de sujetadores: suministros y materiales
 Proveedor de toldos: suministros y materiales
 Proveedor de tratamiento de agua: suministros y materiales
 Proveedor de ventanas: suministros y materiales
-Proveedores de la industria del metal: suministros y materiales
+Proveedores de la industria del metal: industria y manufactura
 Psicoterapeuta: salud y medicina
 Psicólogo: salud y medicina
 Psicólogo infantil: salud y medicina
 Psiquiatra: salud y medicina
-Psíquico: recursos humanos
+Psíquico: salud y medicina
 Pub irlandés: entretenimiento y ocio
-Pueblo rural: agricultura
-QUEMADORES: suministros y materiales
+Pueblo rural: deportes y recreacion
+QUEMADORES: desconocido
 QUESOS: FABRICACION: industria y manufactura
-QUIOSCOS DE PRENSA: suministros y materiales
+QUIOSCOS DE PRENSA: servicios profesionales
 QUIROMASAJISTAS: desconocido
-QUIROPRACTICOS: desconocido
-Quedarse en casa: hosteleria y turismo
+QUIROPRACTICOS: salud y medicina
+Quedarse en casa: servicios profesionales
 RADIADORES PARA VEHICULOS: VENTA Y REPARACION: automocion
-RADIOCOMUNICACION: EQUIPOS: desconocido
-RECUBRIMIENTOS PLASTICOS: suministros y materiales
-RECUPERACION FUNCIONAL Y FISIOTERAPIA: CENTROS: recursos humanos
+RADIOCOMUNICACION: EQUIPOS: salud y medicina
+RECUBRIMIENTOS PLASTICOS: telecomunicaciones
+RECUPERACION FUNCIONAL Y FISIOTERAPIA: CENTROS: salud y medicina
 RECURSOS HUMANOS: CONSULTORIAS: consultoria y asesoria
-REFORMAS EN GENERAL: construccion e inmobiliaria
+REFORMAS EN GENERAL: servicios profesionales
 REFRIGERACION INDUSTRIAL: industria y manufactura
-REFUGIOS DE MONTAÑA: hosteleria y turismo
-REGALOS PARA INVITADOS: ESTABLECIMIENTOS: recursos humanos
-REGALOS: ESTABLECIMIENTOS: desconocido
-REGALOS: FABRICANTES Y MAYORISTAS: comercio y ventas
-REGISTROS DE LA PROPIEDAD: servicios publicos
-REHABILITACION DE EDIFICIOS: construccion e inmobiliaria
-REIKI: ESCUELAS Y TERAPEUTAS: recursos humanos
-RELOJERIAS: desconocido
-REMOLQUES: FABRICANTES Y MAYORISTAS: comercio y ventas
-REPARACIONES DEL HOGAR: EMPRESAS MULTISERVICIOS: servicios profesionales
-REPRESENTACIONES ARTISTICAS: arte y cultura
+REFUGIOS DE MONTAÑA: belleza
+REGALOS PARA INVITADOS: ESTABLECIMIENTOS: salud y medicina
+REGALOS: ESTABLECIMIENTOS: salud y medicina
+REGALOS: FABRICANTES Y MAYORISTAS: salud y medicina
+REGISTROS DE LA PROPIEDAD: servicios profesionales
+REHABILITACION DE EDIFICIOS: servicios profesionales
+REIKI: ESCUELAS Y TERAPEUTAS: salud y medicina
+RELOJERIAS: comercio y ventas
+REMOLQUES: FABRICANTES Y MAYORISTAS: salud y medicina
+REPARACIONES DEL HOGAR: EMPRESAS MULTISERVICIOS: automocion
+REPRESENTACIONES ARTISTICAS: servicios profesionales
 REPRESENTANTES COMERCIALES: comercio y ventas
 REPROGRAFIA: desconocido
-RESIDENCIAS DE ESTUDIANTES: servicios publicos
-RESIDENCIAS DE SACERDOTES: servicios publicos
-RESIDENCIAS PARA PERSONAS MAYORES: recursos humanos
+RESIDENCIAS DE ESTUDIANTES: servicios profesionales
+RESIDENCIAS DE SACERDOTES: servicios profesionales
+RESIDENCIAS PARA PERSONAS MAYORES: servicios profesionales
 RESIDUOS: RECUPERACION Y COMERCIO: comercio y ventas
 RESTAURANTES Y HOSTELERIA: CENTRALES DE COMPRAS: hosteleria y turismo
-REVESTIMIENTOS CERAMICOS: FABRICANTES Y MAYORISTAS: comercio y ventas
+REVESTIMIENTOS CERAMICOS: FABRICANTES Y MAYORISTAS: salud y medicina
 REVESTIMIENTOS DE PAREDES: servicios profesionales
-REVISTAS: medios de comunicacion
-RODAMIENTOS: suministros y materiales
+REVISTAS: servicios profesionales
+RODAMIENTOS: telecomunicaciones
 ROPA DE CABALLERO: OFICINAS DE GESTION DE TIENDAS: textil y moda
 ROPA DE DEPORTE: FABRICACION: textil y moda
 ROPA DE SEÑORA CABALLERO Y NIÑO: ESTABLECIMIENTOS: textil y moda
 ROPA DE TRABAJO: MAYORISTAS: textil y moda
-ROPA DIVERSA: FABRICACION: textil y moda
-ROPA DIVERSA: MAYORISTAS: textil y moda
+ROPA DIVERSA: FABRICACION: industria y manufactura
+ROPA DIVERSA: MAYORISTAS: alimentacion
 ROPA JUVENIL: ESTABLECIMIENTOS: textil y moda
 ROPA PARA DEPORTE Y GIMNASIA: ESTABLECIMIENTOS: textil y moda
 ROPA PARA EL HOGAR (LENCERIA): ESTABLECIMIENTOS: textil y moda
 ROPA Y ARTICULOS PARA PREMAMA Y BEBES: ESTABLECIMIENTOS: textil y moda
 ROPA Y CALZADO: MAYORISTAS: textil y moda
-ROTULACIONES: servicios publicos
-ROTULOS: textil y moda
-Radiólogo: salud y medicina
-Reflexólogo: salud y medicina
-Reformas: construccion e inmobiliaria
-Reformas de baños: construccion e inmobiliaria
-Residencia de ancianos: servicios publicos
-Residencia de estudiantes: servicios publicos
+ROTULACIONES: desconocido
+ROTULOS: desconocido
+Radiólogo: desconocido
+Reflexólogo: desconocido
+Reformas: telecomunicaciones
+Reformas de baños: servicios profesionales
+Residencia de ancianos: servicios profesionales
+Residencia de estudiantes: informatica y tecnologia
 Restaurante: hosteleria y turismo
 Restaurante Bakso: hosteleria y turismo
 Restaurante Doner kebab: hosteleria y turismo
@@ -1494,7 +1494,7 @@ Restaurante argentino: hosteleria y turismo
 Restaurante asiático: hosteleria y turismo
 Restaurante asturiano: hosteleria y turismo
 Restaurante barbacoa: hosteleria y turismo
-Restaurante brunch: hosteleria y turismo
+Restaurante brunch: logistica y transporte
 Restaurante búlgaro: hosteleria y turismo
 Restaurante caribeño: hosteleria y turismo
 Restaurante chophouse: hosteleria y turismo
@@ -1543,17 +1543,17 @@ Restaurante venezolano: hosteleria y turismo
 Restaurante vietnamita: hosteleria y turismo
 Restaurante árabe: hosteleria y turismo
 Restaurantes: hosteleria y turismo
-SALAS DE CONCIERTOS: entretenimiento y ocio
-SALAS DE FIESTAS: servicios publicos
-SALAS MULTIUSOS: alimentacion
-SALONES DE JUEGO: deportes y recreacion
-SALONES RECREATIVOS: deportes y recreacion
-SALUD MENTAL Y PSIQUIATRIA: CENTROS SANITARIOS: educacion y formacion
-SANEAMIENTOS Y ACCESORIOS: servicios profesionales
-SANITARIOS DE BAÑO: ESTABLECIMIENTOS: suministros y materiales
-SANITARIOS Y ACCESORIOS: DISTRIBUCION: suministros y materiales
+SALAS DE CONCIERTOS: belleza
+SALAS DE FIESTAS: belleza
+SALAS MULTIUSOS: belleza
+SALONES DE JUEGO: servicios profesionales
+SALONES RECREATIVOS: servicios profesionales
+SALUD MENTAL Y PSIQUIATRIA: CENTROS SANITARIOS: salud y medicina
+SANEAMIENTOS Y ACCESORIOS: textil y moda
+SANITARIOS DE BAÑO: ESTABLECIMIENTOS: servicios profesionales
+SANITARIOS Y ACCESORIOS: DISTRIBUCION: textil y moda
 SASTRERIAS: desconocido
-SEGUNDA MANO: PRODUCTOS: textil y moda
+SEGUNDA MANO: PRODUCTOS: alimentacion
 SEGURIDAD Y VIGILANCIA: EMPRESAS: servicios profesionales
 SEGURIDAD: INSTALACION Y MANTENIMIENTO DE SISTEMAS: servicios profesionales
 SEGURIDAD: MATERIALES Y SISTEMAS: servicios profesionales
@@ -1565,220 +1565,220 @@ SEGUROS: CORREDURIAS: banca y finanzas
 SEGUROS: MEDIADORES: banca y finanzas
 SELECCION DE PERSONAL: recursos humanos
 SELLOS DE CAUCHO: FABRICACION: industria y manufactura
-SEMILLAS: alimentacion
-SERIGRAFIA: textil y moda
-SERVICIO DE COMIDAS PARA EMPRESAS: hosteleria y turismo
-SERVICIO DOMESTICO: servicios profesionales
-SERVICIOS AGRICOLAS Y FORESTALES: agricultura
-SERVICIOS DIVERSOS A PARTICULARES: servicios publicos
-SERVICIOS EMPRESARIALES: servicios publicos
-SERVICIOS FINANCIEROS: servicios publicos
-SEX-SHOPS: entretenimiento y ocio
-SEÑALES INDICADORAS: servicios publicos
-SIDERURGIA: mineria y extraccion
-SILLAS DE RUEDAS: VENTA Y ALQUILER: suministros y materiales
-SILLAS: FABRICANTES Y MAYORISTAS: comercio y ventas
-SOBRES: alimentacion
-SOCIEDADES DE CARTERA (HOLDINGS): desconocido
-SOFAS: ESTABLECIMIENTOS: suministros y materiales
-SOLADORES Y ALICATADORES: otros
-SOLDADURA MATERIALES: FABRICANTES Y MAYORISTAS: comercio y ventas
-SOLDADURAS: industria y manufactura
-SOMBREROS Y GORRAS: ESTABLECIMIENTOS: textil y moda
-SOMBREROS: FABRICACION: textil y moda
-SONDEOS Y PERFORACIONES: alimentacion
-SONIDO PROFESIONAL EQUIPOS: VENTA: informatica y tecnologia
-SONIDO TV Y VIDEO: ESTABLECIMIENTOS: medios de comunicacion
-SONIDO TV Y VIDEO: REPARACION: servicios profesionales
-SONIDO: ESTUDIOS DE GRABACION: informatica y tecnologia
-SPAS: CENTROS (BALNEARIOS URBANOS): desconocido
-SUBMARINISMO EQUIPOS: VENTA Y ALQUILER: suministros y materiales
-SUBMARINISMO: ESCUELAS: desconocido
-SUBMARINISMO: INSTRUCTORES: desconocido
-SUMINISTROS INDUSTRIALES: industria y manufactura
-SUPERMERCADOS E HIPERMERCADOS: alimentacion
-SUPERMERCADOS: PEQUEÑAS SUPERFICIES: alimentacion
-SURF: ESCUELAS: desconocido
-Sala de bingo: servicios publicos
-Sala de conciertos: entretenimiento y ocio
-Sala de videojuegos: servicios publicos
-Salones de actos: servicios publicos
-Salón de baile: hosteleria y turismo
-Salón de banquetes: hosteleria y turismo
-Salón de belleza: servicios profesionales
+SEMILLAS: servicios profesionales
+SERIGRAFIA: informatica y tecnologia
+SERVICIO DE COMIDAS PARA EMPRESAS: servicios profesionales
+SERVICIO DOMESTICO: banca y finanzas
+SERVICIOS AGRICOLAS Y FORESTALES: belleza
+SERVICIOS DIVERSOS A PARTICULARES: automocion
+SERVICIOS EMPRESARIALES: servicios profesionales
+SERVICIOS FINANCIEROS: servicios profesionales
+SEX-SHOPS: desconocido
+SEÑALES INDICADORAS: desconocido
+SIDERURGIA: desconocido
+SILLAS DE RUEDAS: VENTA Y ALQUILER: automocion
+SILLAS: FABRICANTES Y MAYORISTAS: salud y medicina
+SOBRES: belleza
+SOCIEDADES DE CARTERA (HOLDINGS): servicios profesionales
+SOFAS: ESTABLECIMIENTOS: salud y medicina
+SOLADORES Y ALICATADORES: salud y medicina
+SOLDADURA MATERIALES: FABRICANTES Y MAYORISTAS: suministros y materiales
+SOLDADURAS: construccion e inmobiliaria
+SOMBREROS Y GORRAS: ESTABLECIMIENTOS: salud y medicina
+SOMBREROS: FABRICACION: industria y manufactura
+SONDEOS Y PERFORACIONES: salud y medicina
+SONIDO PROFESIONAL EQUIPOS: VENTA: alimentacion
+SONIDO TV Y VIDEO: ESTABLECIMIENTOS: salud y medicina
+SONIDO TV Y VIDEO: REPARACION: automocion
+SONIDO: ESTUDIOS DE GRABACION: servicios profesionales
+SPAS: CENTROS (BALNEARIOS URBANOS): hosteleria y turismo
+SUBMARINISMO EQUIPOS: VENTA Y ALQUILER: automocion
+SUBMARINISMO: ESCUELAS: salud y medicina
+SUBMARINISMO: INSTRUCTORES: salud y medicina
+SUMINISTROS INDUSTRIALES: suministros y materiales
+SUPERMERCADOS E HIPERMERCADOS: banca y finanzas
+SUPERMERCADOS: PEQUEÑAS SUPERFICIES: salud y medicina
+SURF: ESCUELAS: entretenimiento y ocio
+Sala de bingo: servicios profesionales
+Sala de conciertos: servicios profesionales
+Sala de videojuegos: servicios profesionales
+Salones de actos: servicios profesionales
+Salón de baile: servicios profesionales
+Salón de banquetes: servicios profesionales
+Salón de belleza: belleza
 Salón de pestañas: servicios profesionales
 Sastre: desconocido
 Sastre personalizado: recursos humanos
 Seguridad y salud ocupacional: servicios profesionales
 Servicio agrícola: agricultura
-Servicio de DJ: entretenimiento y ocio
-Servicio de Reparación y mantenimiento de automóviles: servicios profesionales
-Servicio de adelgazamiento: suministros y materiales
+Servicio de DJ: servicios profesionales
+Servicio de Reparación y mantenimiento de automóviles: automocion
+Servicio de adelgazamiento: servicios profesionales
 Servicio de administración de empresas: servicios publicos
 Servicio de administración de fincas: servicios publicos
-Servicio de adopción de mascotas: servicios publicos
-Servicio de aerografia: servicios profesionales
-Servicio de afilado: suministros y materiales
-Servicio de aire acondicionado automático: suministros y materiales
+Servicio de adopción de mascotas: servicios profesionales
+Servicio de aerografia: arte y cultura
+Servicio de afilado: servicios profesionales
+Servicio de aire acondicionado automático: servicios profesionales
 Servicio de alojamiento vacacional: hosteleria y turismo
-Servicio de alquiler de bicicletas: suministros y materiales
-Servicio de alquiler de embarcaciones: suministros y materiales
-Servicio de alquiler de equipos audiovisuales: suministros y materiales
-Servicio de antena: suministros y materiales
+Servicio de alquiler de bicicletas: servicios profesionales
+Servicio de alquiler de embarcaciones: servicios profesionales
+Servicio de alquiler de equipos audiovisuales: servicios profesionales
+Servicio de antena: servicios profesionales
 Servicio de arreglos de ropa: textil y moda
-Servicio de ascensor: suministros y materiales
-Servicio de atención médica a domicilio: servicios publicos
+Servicio de ascensor: servicios profesionales
+Servicio de atención médica a domicilio: belleza
 Servicio de bodas: servicios profesionales
-Servicio de bordado: suministros y materiales
+Servicio de bordado: servicios profesionales
 Servicio de catering: hosteleria y turismo
-Servicio de cerrajería de emergencia: suministros y materiales
-Servicio de certificado médico: servicios publicos
-Servicio de citas: suministros y materiales
+Servicio de cerrajería de emergencia: servicios profesionales
+Servicio de certificado médico: informatica y tecnologia
+Servicio de citas: servicios profesionales
 Servicio de comercio electrónico: comercio y ventas
-Servicio de cuidado del césped: servicios profesionales
-Servicio de delineación: suministros y materiales
-Servicio de depilación: servicios profesionales
-Servicio de depilación láser: servicios profesionales
-Servicio de distribucion: suministros y materiales
-Servicio de eliminación de abolladuras de automóviles: automocion
-Servicio de empresa a empresa: servicios publicos
-Servicio de fax: suministros y materiales
+Servicio de cuidado del césped: belleza
+Servicio de delineación: servicios profesionales
+Servicio de depilación: belleza
+Servicio de depilación láser: belleza
+Servicio de distribucion: construccion e inmobiliaria
+Servicio de eliminación de abolladuras de automóviles: servicios profesionales
+Servicio de empresa a empresa: belleza
+Servicio de fax: servicios profesionales
 Servicio de fiesta infantil: servicios profesionales
-Servicio de fotografia: suministros y materiales
-Servicio de gestión de residuos: suministros y materiales
+Servicio de fotografia: servicios profesionales
+Servicio de gestión de residuos: servicios profesionales
 Servicio de hipnoterapia: servicios profesionales
-Servicio de impermeabilización: suministros y materiales
-Servicio de impresión 3D: informatica y tecnologia
+Servicio de impermeabilización: consultoria y asesoria
+Servicio de impresión 3D: servicios profesionales
 Servicio de impresión digital: informatica y tecnologia
-Servicio de instalación de pisos de madera: suministros y materiales
-Servicio de instalación de sistemas de seguridad: servicios profesionales
+Servicio de instalación de pisos de madera: servicios profesionales
+Servicio de instalación de sistemas de seguridad: informatica y tecnologia
 Servicio de inversión: banca y finanzas
-Servicio de lavandería: suministros y materiales
+Servicio de lavandería: servicios profesionales
 Servicio de limpieza: servicios profesionales
 Servicio de limpieza de coches: servicios profesionales
 Servicio de limpieza de cristales: servicios profesionales
 Servicio de limpieza de la casa: servicios profesionales
-Servicio de preparación de impuestos: servicios publicos
+Servicio de preparación de impuestos: servicios profesionales
 Servicio de producción de video: industria y manufactura
-Servicio de pruebas educativas: educacion y formacion
-Servicio de reconstrucción de motores: automocion
-Servicio de rectificado de herramientas: suministros y materiales
-Servicio de renovación de suelos: suministros y materiales
-Servicio de renta de caballos / Servicio de alquiler de caballos / AGE: suministros y materiales
-Servicio de reparación: servicios profesionales
-Servicio de reparación de computadoras: servicios profesionales
-Servicio de reparación de electrodomésticos: servicios profesionales
-Servicio de reparación de equipos audiovisuales: servicios profesionales
-Servicio de reparación de pequeños electrodomésticos: servicios profesionales
-Servicio de reparación de piscinas: servicios profesionales
-Servicio de restauración de automóviles: automocion
-Servicio de restauración de edificios: construccion e inmobiliaria
+Servicio de pruebas educativas: servicios profesionales
+Servicio de reconstrucción de motores: servicios profesionales
+Servicio de rectificado de herramientas: servicios profesionales
+Servicio de renovación de suelos: servicios profesionales
+Servicio de renta de caballos / Servicio de alquiler de caballos / AGE: servicios profesionales
+Servicio de reparación: automocion
+Servicio de reparación de computadoras: automocion
+Servicio de reparación de electrodomésticos: automocion
+Servicio de reparación de equipos audiovisuales: automocion
+Servicio de reparación de pequeños electrodomésticos: automocion
+Servicio de reparación de piscinas: automocion
+Servicio de restauración de automóviles: servicios profesionales
+Servicio de restauración de edificios: servicios profesionales
 Servicio de rotulación de vehículo: automocion
-Servicio de salud mental: servicios publicos
-Servicio de salud ocupacional: servicios publicos
+Servicio de salud mental: informatica y tecnologia
+Servicio de salud ocupacional: servicios profesionales
 Servicio de seguridad: servicios profesionales
 Servicio de seguridad informática: servicios profesionales
-Servicio de sistema séptico: suministros y materiales
+Servicio de sistema séptico: servicios profesionales
 Servicio de taxi: logistica y transporte
 Servicio de taxi minibús: logistica y transporte
-Servicio de traducción: suministros y materiales
-Servicio de transferencia de dinero: suministros y materiales
+Servicio de traducción: construccion e inmobiliaria
+Servicio de transferencia de dinero: servicios profesionales
 Servicio de transporte: logistica y transporte
 Servicio de transporte de carga: logistica y transporte
-Servicio de transportes y mensajería: logistica y transporte
-Servicio de tratamiento térmico de metales: suministros y materiales
-Servicio de trituración: suministros y materiales
-Servicio de tutoría: suministros y materiales
-Servicio forestal: servicios publicos
-Servicio informático: informatica y tecnologia
-Servicio logístico: suministros y materiales
-Servicio tecnico: recursos humanos
-Servicio veterinario de emergencia: servicios publicos
+Servicio de transportes y mensajería: construccion e inmobiliaria
+Servicio de tratamiento térmico de metales: construccion e inmobiliaria
+Servicio de trituración: servicios profesionales
+Servicio de tutoría: servicios profesionales
+Servicio forestal: servicios profesionales
+Servicio informático: banca y finanzas
+Servicio logístico: banca y finanzas
+Servicio tecnico: banca y finanzas
+Servicio veterinario de emergencia: servicios profesionales
 Servicios Legales: consultoria y asesoria
-Servicios de adivinación: servicios publicos
-Sexólogo: salud y medicina
-Sidrería: hosteleria y turismo
-Soldador: desconocido
-Soporte y servicios informáticos: suministros y materiales
-Spa facial: hosteleria y turismo
-Spa médico: salud y medicina
-Suministro de fabricación de alimentos: suministros y materiales
+Servicios de adivinación: servicios profesionales
+Sexólogo: desconocido
+Sidrería: desconocido
+Soldador: banca y finanzas
+Soporte y servicios informáticos: servicios profesionales
+Spa facial: belleza
+Spa médico: belleza
+Suministro de fabricación de alimentos: industria y manufactura
 Supermercado: alimentacion
 Supermercado americano: alimentacion
-TABACO Y ARTICULOS DE FUMADOR: ESTABLECIMIENTOS: suministros y materiales
-TABACO: MAYORISTAS: comercio y ventas
+TABACO Y ARTICULOS DE FUMADOR: ESTABLECIMIENTOS: belleza
+TABACO: MAYORISTAS: servicios profesionales
 TABERNAS: hosteleria y turismo
-TABLEROS: FABRICANTES Y MAYORISTAS: comercio y ventas
-TAI CHI: desconocido
-TALLERES DE CHAPA Y PINTURA: automocion
-TALLERES ELECTRICOS PARA VEHICULOS: automocion
-TALLERES MECANICOS PARA AUTOMOVILES: automocion
-TALLERES MECANICOS PARA VEHICULOS: automocion
-TALLERES PARA AUTOMOVILES: SERVICIO INTEGRAL: automocion
-TALLERES PARA MOTOCICLETAS: automocion
-TANATORIOS: servicios publicos
-TAPICERIAS: automocion
-TAPICEROS: textil y moda
-TARJETAS PLASTICAS: FABRICACION: suministros y materiales
-TAROT: banca y finanzas
-TASACIONES: servicios publicos
-TASACIONES INMOBILIARIAS: servicios publicos
-TATUAJES Y PIERCING: servicios profesionales
-TAXIDERMIA: agricultura
+TABLEROS: FABRICANTES Y MAYORISTAS: salud y medicina
+TAI CHI: entretenimiento y ocio
+TALLERES DE CHAPA Y PINTURA: belleza
+TALLERES ELECTRICOS PARA VEHICULOS: telecomunicaciones
+TALLERES MECANICOS PARA AUTOMOVILES: telecomunicaciones
+TALLERES MECANICOS PARA VEHICULOS: telecomunicaciones
+TALLERES PARA AUTOMOVILES: SERVICIO INTEGRAL: salud y medicina
+TALLERES PARA MOTOCICLETAS: telecomunicaciones
+TANATORIOS: desconocido
+TAPICERIAS: desconocido
+TAPICEROS: desconocido
+TARJETAS PLASTICAS: FABRICACION: industria y manufactura
+TAROT: desconocido
+TASACIONES: desconocido
+TASACIONES INMOBILIARIAS: telecomunicaciones
+TATUAJES Y PIERCING: belleza
+TAXIDERMIA: desconocido
 TAXIS: SERVICIOS Y PARADAS: logistica y transporte
 TECHOS: MATERIALES E INSTALACIONES: suministros y materiales
-TECNICOS DE SONIDO: suministros y materiales
-TEJIDOS METALICOS: FABRICANTES Y MAYORISTAS: comercio y ventas
-TEJIDOS: ESTABLECIMIENTOS: suministros y materiales
+TECNICOS DE SONIDO: servicios profesionales
+TEJIDOS METALICOS: FABRICANTES Y MAYORISTAS: salud y medicina
+TEJIDOS: ESTABLECIMIENTOS: servicios profesionales
 TEJIDOS: FABRICACION: industria y manufactura
-TEJIDOS: MAYORISTAS: comercio y ventas
-TELECOMUNICACION: SERVICIOS: suministros y materiales
+TEJIDOS: MAYORISTAS: servicios profesionales
+TELECOMUNICACION: SERVICIOS: salud y medicina
 TELEFONIA MOVIL: telecomunicaciones
 TELEFONIA Y COMUNICACION EQUIPOS: ESTABLECIMIENTOS: telecomunicaciones
 TELEFONIA: REPARACION: telecomunicaciones
 TELEVISION VIDEO Y CINE: SERVICIOS DE PRODUCCION: medios de comunicacion
-TERCERA EDAD: ARTICULOS Y SERVICIOS: recursos humanos
+TERCERA EDAD: ARTICULOS Y SERVICIOS: servicios profesionales
 TEXTIL: MAYORISTAS: industria y manufactura
-TIENDAS 24 HORAS: alimentacion
-TIENDAS DE CAMISETAS: alimentacion
-TIENDAS DE NOVIA: alimentacion
-TIENDAS DE ROPA DE SEÑORA: alimentacion
-TIENDAS DE ROPA DE SEÑORA Y CABALLERO: alimentacion
-TIENDAS DE ROPA INFANTIL: alimentacion
-TIENDAS DE ROPA PARA CABALLERO: alimentacion
-TIENDAS DE VINO Y BEBIDAS ALCOHOLICAS: alimentacion
+TIENDAS 24 HORAS: logistica y transporte
+TIENDAS DE CAMISETAS: servicios profesionales
+TIENDAS DE NOVIA: servicios profesionales
+TIENDAS DE ROPA DE SEÑORA: textil y moda
+TIENDAS DE ROPA DE SEÑORA Y CABALLERO: textil y moda
+TIENDAS DE ROPA INFANTIL: textil y moda
+TIENDAS DE ROPA PARA CABALLERO: textil y moda
+TIENDAS DE VINO Y BEBIDAS ALCOHOLICAS: belleza
 TIENDAS ESPECIALIZADAS: alimentacion
-TIENDAS Y ESTABLECIMIENTOS COMERCIALES: alimentacion
-TINTORERIAS DOMESTICAS: servicios profesionales
-TODO A 100: ESTABLECIMIENTOS: recursos humanos
-TOLDOS: FABRICACION E INSTALACION: suministros y materiales
-TONER: RECICLAJE: desconocido
-TOPOGRAFIA: EMPRESAS: consultoria y asesoria
+TIENDAS Y ESTABLECIMIENTOS COMERCIALES: comercio y ventas
+TINTORERIAS DOMESTICAS: desconocido
+TODO A 100: ESTABLECIMIENTOS: automocion
+TOLDOS: FABRICACION E INSTALACION: industria y manufactura
+TONER: RECICLAJE: recursos humanos
+TOPOGRAFIA: EMPRESAS: salud y medicina
 TRABAJOS VERTICALES: recursos humanos
-TRADUCCIONES: informatica y tecnologia
-TRAJES DE ETIQUETA: ESTABLECIMIENTOS: suministros y materiales
-TRAJES: ALQUILER: textil y moda
-TRAMITACION DE VISADOS: suministros y materiales
+TRADUCCIONES: telecomunicaciones
+TRAJES DE ETIQUETA: ESTABLECIMIENTOS: servicios profesionales
+TRAJES: ALQUILER: automocion
+TRAMITACION DE VISADOS: servicios profesionales
 TRANSITOS INTERNACIONALES: servicios publicos
 TRANSPORTES CISTERNAS: logistica y transporte
 TRANSPORTES DE MATERIALES DE CONSTRUCCION Y DESECHO: logistica y transporte
-TRANSPORTES DE MERCANCIAS: logistica y transporte
-TRANSPORTES ESPECIALES: logistica y transporte
-TRANSPORTES FLUVIALES DE PASAJEROS: logistica y transporte
-TRANSPORTES FRIGORIFICOS: logistica y transporte
-TRANSPORTES MARITIMOS DE PASAJEROS: COMPAÑIAS: logistica y transporte
+TRANSPORTES DE MERCANCIAS: servicios profesionales
+TRANSPORTES ESPECIALES: servicios profesionales
+TRANSPORTES FLUVIALES DE PASAJEROS: servicios profesionales
+TRANSPORTES FRIGORIFICOS: telecomunicaciones
+TRANSPORTES MARITIMOS DE PASAJEROS: COMPAÑIAS: servicios profesionales
 TRANSPORTES POR CARRETERA: logistica y transporte
-TRANSPORTES URBANOS DE MERCANCIAS: logistica y transporte
-TRANSPORTES URBANOS DE VIAJEROS: logistica y transporte
+TRANSPORTES URBANOS DE MERCANCIAS: servicios profesionales
+TRANSPORTES URBANOS DE VIAJEROS: servicios profesionales
 TRANSPORTES: AGENCIAS: logistica y transporte
-TRASTEROS Y MINI ALMACENES: ALQUILER (SELF STORAGE): suministros y materiales
-TRATTORIAS: recursos humanos
-TROQUELES Y TROQUELADOS: otros
-TUBOS Y TUBERIAS: ACCESORIOS: suministros y materiales
+TRASTEROS Y MINI ALMACENES: ALQUILER (SELF STORAGE): belleza
+TRATTORIAS: desconocido
+TROQUELES Y TROQUELADOS: salud y medicina
+TUBOS Y TUBERIAS: ACCESORIOS: salud y medicina
 TURISMO RURAL: ALOJAMIENTO RURAL: hosteleria y turismo
 TURISMO: SERVICIOS: hosteleria y turismo
 TX_ACTVAD_NO_NORMALIZADA: actividad_normalizada
-Taberna: entretenimiento y ocio
+Taberna: hosteleria y turismo
 Taller de carrocería: automocion
 Taller de costura: automocion
 Taller de metales: automocion
@@ -1794,11 +1794,11 @@ Taller de reparación de vehículos: automocion
 Taller de reparación eléctrica: automocion
 Taller de revisión de automóviles: automocion
 Taller de trabajo de metales: automocion
-Tatuador: textil y moda
-Taxidermista: arte y cultura
-Terapeuta de reiki: deportes y recreacion
-Terapeuta ocupacional: salud y medicina
-Terapia craneosacral: salud y medicina
+Tatuador: desconocido
+Taxidermista: desconocido
+Terapeuta de reiki: belleza
+Terapeuta ocupacional: recursos humanos
+Terapia craneosacral: quimica y farmaceutica
 Tienda: alimentacion
 Tienda avícola: alimentacion
 Tienda de abrigos de piel: alimentacion
@@ -1949,129 +1949,129 @@ Tienda de vino: alimentacion
 Tienda de vitaminas y suplementos: alimentacion
 Tienda ecológica: alimentacion
 Tienda para bebés: alimentacion
-Tintorero: hosteleria y turismo
-Tostadores de café: alimentacion
-Traductor: medios de comunicacion
-Técnico de extensión de cabello: servicios profesionales
+Tintorero: desconocido
+Tostadores de café: hosteleria y turismo
+Traductor: banca y finanzas
+Técnico de extensión de cabello: belleza
 Urólogo: salud y medicina
-VARIANTES: FABRICANTES Y MAYORISTAS: comercio y ventas
+VARIANTES: FABRICANTES Y MAYORISTAS: salud y medicina
 VEHICULOS INDUSTRIALES: ALQUILER: automocion
 VEHICULOS INDUSTRIALES: RECAMBIOS: automocion
-VENTA AMBULANTE DE PRENDAS DE VESTIR Y COMPLEMENTOS NUEVOS: alimentacion
-VENTA POR CATALOGO: comercio y ventas
+VENTA AMBULANTE DE PRENDAS DE VESTIR Y COMPLEMENTOS NUEVOS: textil y moda
+VENTA POR CATALOGO: belleza
 VENTA POR INTERNET: TIENDAS: informatica y tecnologia
 VENTANAS: FABRICACION: industria y manufactura
-VENTANAS: FABRICACION, INSTALACION Y REPARACION: servicios profesionales
-VENTANAS: MAYORISTAS: comercio y ventas
+VENTANAS: FABRICACION, INSTALACION Y REPARACION: industria y manufactura
+VENTANAS: MAYORISTAS: salud y medicina
 VENTILACION INDUSTRIAL: industria y manufactura
 VERTEDEROS PARA MATERIALES DE DERRIBO: suministros y materiales
-VETERINARIA: PRODUCTOS: suministros y materiales
-VETERINARIOS: salud y medicina
-VIAJES: MAYORISTAS: hosteleria y turismo
+VETERINARIA: PRODUCTOS: salud y medicina
+VETERINARIOS: servicios profesionales
+VIAJES: MAYORISTAS: salud y medicina
 VIDEO PUBLICITARIO: PRODUCCION: industria y manufactura
-VIDEOJUEGOS: informatica y tecnologia
-VIDRIERAS: arte y cultura
-VIDRIO MANIPULADO Y TRANSFORMACION DE PRODUCTOS: suministros y materiales
+VIDEOJUEGOS: entretenimiento y ocio
+VIDRIERAS: desconocido
+VIDRIO MANIPULADO Y TRANSFORMACION DE PRODUCTOS: belleza
 VIDRIO: ALMACENES: suministros y materiales
 VIDRIOS: FABRICACION: industria y manufactura
-VILLAS: ALQUILER: desconocido
-VINOS: DISTRIBUCION: suministros y materiales
-VITICULTURA: agricultura
-VIVEROS AGRICOLAS Y FORESTALES: agricultura
-VIVEROS PARA JARDINERIA: servicios profesionales
+VILLAS: ALQUILER: automocion
+VINOS: DISTRIBUCION: salud y medicina
+VITICULTURA: desconocido
+VIVEROS AGRICOLAS Y FORESTALES: belleza
+VIVEROS PARA JARDINERIA: belleza
 Vendedor de coches: automocion
-Verdulero: hosteleria y turismo
-Veterinario: salud y medicina
-Vivero de mariscos: agricultura
-Vivero de plantas: agricultura
-Viviendas tuteladas: construccion e inmobiliaria
-YOGA: deportes y recreacion
+Verdulero: desconocido
+Veterinario: educacion y formacion
+Vivero de mariscos: belleza
+Vivero de plantas: servicios profesionales
+Viviendas tuteladas: automocion
+YOGA: salud y medicina
 Zapatería: textil y moda
 academia de baile: educacion y formacion
 academia de idiomas: educacion y formacion
 academia de inglés: educacion y formacion
 administración de loterías: servicios publicos
-administrador de la propiedad: servicios publicos
-agencia de alquiler de equipos: suministros y materiales
-agencia inmobiliaria: consultoria y asesoria
-agentes inmobiliarios: servicios publicos
-albañil: servicios profesionales
-alquiler con opcion a compra: alimentacion
+administrador de la propiedad: servicios profesionales
+agencia de alquiler de equipos: servicios profesionales
+agencia inmobiliaria: construccion e inmobiliaria
+agentes inmobiliarios: telecomunicaciones
+albañil: desconocido
+alquiler con opcion a compra: automocion
 autoescuela: desconocido
 bar: entretenimiento y ocio
 bar de tapas: entretenimiento y ocio
 bar tabac: entretenimiento y ocio
-barbería: servicios profesionales
-bazar: textil y moda
+barbería: belleza
+bazar: alimentacion
 boutique: textil y moda
 cafetería: hosteleria y turismo
-carnicería: hosteleria y turismo
-carpintería metálica y de aluminio: industria y manufactura
-centro de bronceado: servicios profesionales
+carnicería: alimentacion
+carpintería metálica y de aluminio: construccion e inmobiliaria
+centro de bronceado: belleza
 centro de deportes de aventura: deportes y recreacion
 centro de educación secundaria: educacion y formacion
-centro de estética: servicios profesionales
-centro de pilates: deportes y recreacion
-centro de salud y bienestar: servicios profesionales
+centro de estética: belleza
+centro de pilates: belleza
+centro de salud y bienestar: salud y medicina
 centro educativo: educacion y formacion
-cervecería: hosteleria y turismo
-churreria: desconocido
-clínica ambulatoria: salud y medicina
+cervecería: desconocido
+churreria: alimentacion
+clínica ambulatoria: comercio y ventas
 clínica de fisioterapia: salud y medicina
 clínica dental: salud y medicina
 comercio: comercio y ventas
 comida a domicilio: hosteleria y turismo
 compañía eléctrica: energia y medio ambiente
 consultora de administración empresarial: servicios publicos
-contratista de excavación: construccion e inmobiliaria
-contratista general: servicios publicos
+contratista de excavación: servicios profesionales
+contratista general: banca y finanzas
 corredor de seguros: banca y finanzas
 dentista: salud y medicina
 diseñador de sitios web: informatica y tecnologia
-electricista: servicios profesionales
+electricista: construccion e inmobiliaria
 empresa constructora: construccion e inmobiliaria
 empresa de administración de propiedades: servicios publicos
-empresa de embalaje: suministros y materiales
-empresa de escayolas: suministros y materiales
+empresa de embalaje: servicios profesionales
+empresa de escayolas: servicios profesionales
 escuela de arte: arte y cultura
-escuela de música: arte y cultura
-esteticista: servicios profesionales
-esteticista facial: servicios profesionales
-estudio de tatuajes: servicios profesionales
-ferretería: servicios profesionales
+escuela de música: belleza
+esteticista: belleza
+esteticista facial: belleza
+estudio de tatuajes: belleza
+ferretería: comercio y ventas
 fisioterapeuta: salud y medicina
-fontanero: servicios profesionales
-fotógrafo: arte y cultura
-fábrica: industria y manufactura
+fontanero: construccion e inmobiliaria
+fotógrafo: servicios profesionales
+fábrica: automocion
 fábrica de muebles: industria y manufactura
 gastropub: desconocido
 gimnasio: deportes y recreacion
 grandes almacenes: suministros y materiales
-hammam: hosteleria y turismo
+hammam: desconocido
 hotel: hosteleria y turismo
 ingeniero industrial: industria y manufactura
-joyería: textil y moda
-lavandería: servicios profesionales
-lavandería de autoservicio: suministros y materiales
-lounge: hosteleria y turismo
-marisquería: hosteleria y turismo
+joyería: industria y manufactura
+lavandería: desconocido
+lavandería de autoservicio: servicios profesionales
+lounge: comercio y ventas
+marisquería: desconocido
 masajista: desconocido
-massage spa: hosteleria y turismo
-nutricionista: salud y medicina
-oficinas de empresa: suministros y materiales
+massage spa: belleza
+nutricionista: quimica y farmaceutica
+oficinas de empresa: servicios profesionales
 osteópata: salud y medicina
-panadería: hosteleria y turismo
-peluquería: servicios profesionales
-perfumería: textil y moda
+panadería: industria y manufactura
+peluquería: belleza
+perfumería: logistica y transporte
 periodoncista de implantes dentales: servicios profesionales
 persona de mantenimiento: servicios profesionales
-pizzería: hosteleria y turismo
+pizzería: alimentacion
 proveedor de productos de belleza: suministros y materiales
 proveedor de sistemas de protección contra incendios: suministros y materiales
 psicólogo: salud y medicina
 pub: entretenimiento y ocio
 quiropráctico: salud y medicina
-residencia de ancianos: servicios publicos
+residencia de ancianos: servicios profesionales
 restaurante: hosteleria y turismo
 restaurante chino: hosteleria y turismo
 restaurante coreano: hosteleria y turismo
@@ -2083,16 +2083,16 @@ restaurante italiano: hosteleria y turismo
 restaurante japonés: hosteleria y turismo
 restaurante mexicano: hosteleria y turismo
 restaurante tailandés: hosteleria y turismo
-salón de manicura y pedicura: servicios profesionales
-servicio de clases particulares: educacion y formacion
-servicio de envíos: logistica y transporte
-servicio de instalación de suelos de madera: suministros y materiales
+salón de manicura y pedicura: belleza
+servicio de clases particulares: servicios profesionales
+servicio de envíos: servicios profesionales
+servicio de instalación de suelos de madera: servicios profesionales
 servicio de limpieza: servicios profesionales
 servicio de limpieza de automóviles: servicios profesionales
 servicio de limpieza doméstica: servicios profesionales
-servicio de mensajería: suministros y materiales
-servicio de mudanzas: suministros y materiales
-servicio de reparación de electrodomésticos: servicios profesionales
+servicio de mensajería: servicios profesionales
+servicio de mudanzas: servicios profesionales
+servicio de reparación de electrodomésticos: automocion
 servicio de transporte: logistica y transporte
 servicio de transporte de mercancías: logistica y transporte
 servicios de limpieza: servicios profesionales
@@ -2108,13 +2108,13 @@ tienda de kebabs: alimentacion
 tienda de muebles: alimentacion
 tienda de ropa de mujer: alimentacion
 tienda de vinos: alimentacion
-tintorería: servicios profesionales
-venta de caravanas y autocaravanas: alimentacion
-villa: construccion e inmobiliaria
-vinoteca: hosteleria y turismo
-yoga instructor: deportes y recreacion
+tintorería: desconocido
+venta de caravanas y autocaravanas: automocion
+villa: automocion
+vinoteca: desconocido
+yoga instructor: salud y medicina
 zapatería: textil y moda
 Área de formación de conductores aprendices: educacion y formacion
-Área de levantamiento de pesas: suministros y materiales
-Óptico: telecomunicaciones
-óptica: telecomunicaciones
+Área de levantamiento de pesas: servicios profesionales
+Óptico: desconocido
+óptica: energia y medio ambiente
